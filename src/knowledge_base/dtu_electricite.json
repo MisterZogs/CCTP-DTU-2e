@@ -1,0 +1,108 @@
+[
+  {
+    "reference": "NF C 15-100",
+    "titre": "Installations électriques à basse tension — Règles",
+    "date_edition": "2002-12",
+    "derniere_mise_a_jour": "2015-06",
+    "lots_concernes": ["electricite"],
+    "domaine_application": "Installations électriques basse tension dans les bâtiments d'habitation neufs et rénovés, locaux tertiaires, ERP",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF C 14-100", "NF EN 60898", "NF EN 61008", "UTE C 15-900"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Tableau de répartition — Équipement minimal logement",
+        "contenu": "Le tableau de répartition doit comporter : un interrupteur général de coupure, un dispositif différentiel de tête 500 mA type S, des disjoncteurs divisionnaires par circuit, des DDR 30 mA type A pour les circuits de la cuisine et salle de bain, type AC pour les autres. En logement neuf, le nombre de circuits minimaux est défini selon la surface et le nombre de pièces.",
+        "exigences": [
+          "DDR de tête : 500 mA type S ou SI",
+          "DDR 30 mA type A pour cuisines et salles d'eau",
+          "Disjoncteur branchement : calibré selon puissance souscrite",
+          "Tableau avec réserve minimale de 20% d'emplacements",
+          "Repérage de chaque disjoncteur par étiquette"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Circuits — Nombre et calibres minimaux",
+        "contenu": "En logement, les circuits minimaux obligatoires sont : éclairage (16A max 8 points), prises 16A (8 prises max par circuit), prises 20A (lave-linge), cuisinière/plaque de cuisson (32A en 2P+T), lave-vaisselle (20A), réfrigérateur (16A circuit dédié), chauffe-eau électrique (circuit dédié), VMC (circuit dédié). Les circuits de chauffage électrique sont dimensionnés selon la puissance installée.",
+        "exigences": [
+          "Circuit éclairage : 1,5 mm², disjoncteur 16A",
+          "Circuit prises 16A : 2,5 mm², disjoncteur 20A",
+          "Circuit plaque cuisson : 6 mm², disjoncteur 32A",
+          "Circuit chauffe-eau : 2,5 mm² minimum, disjoncteur 20A",
+          "Circuits de chauffage : 2,5 mm² minimum par zone"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Mise à la terre — Liaisons équipotentielles",
+        "contenu": "La prise de terre doit présenter une résistance ≤ 100 Ω (norme) ou ≤ 50 Ω (recommandé). La liaison équipotentielle principale relie la prise de terre aux éléments conducteurs de la structure. La liaison équipotentielle supplémentaire est obligatoire dans les salles d'eau (Volumes 1 et 2) et relie toutes les masses et parties conductrices accessibles.",
+        "exigences": [
+          "Résistance de prise de terre ≤ 100 Ω",
+          "Section conducteur PE : ≥ 16 mm² (cuivre) en LEB",
+          "LES salle d'eau : 2,5 mm² minimum, relie tous les éléments métalliques",
+          "Mesure de la résistance de prise de terre avant réception"
+        ]
+      },
+      {
+        "article": "5.4",
+        "sujet": "Installations en salles d'eau — Volumes réglementaires",
+        "contenu": "Les salles d'eau sont divisées en volumes 0, 1 et 2 selon la distance aux points d'eau. Dans le volume 0 (intérieur baignoire/douche), seul le matériel IPX7 est autorisé. Dans le volume 1 (au-dessus du bain jusqu'à 2,25 m), IPX4 minimum. Dans le volume 2 (zone de 60 cm autour du volume 1), IPX4. Hors volumes, le matériel standard est admis.",
+        "exigences": [
+          "Volume 0 : indice IPX7, TBTS ≤ 12V AC",
+          "Volume 1 : indice ≥ IPX4, appareillage 20A pour lave-linge admis",
+          "Volume 2 : indice ≥ IPX4",
+          "Sèche-serviettes : installé hors volumes ou IPX4 en volume 2",
+          "Pas de prise de courant dans les volumes 0, 1 et 2"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Communications — Infrastructure CFO/CFA",
+        "contenu": "L'infrastructure de câblage courants faibles doit prévoir : tableau de communication (VDI), gaine technique logement (GTL), arrivée fibre optique (fourreaux depuis DTIO), câblage RJ45 catégorie 6 minimum. La GTL regroupe le tableau électrique, le tableau de communication et le point de livraison des réseaux télécom.",
+        "exigences": [
+          "GTL : dimensions minimales selon UTE C 15-900 (H 2 m, l 600 mm, P 250 mm)",
+          "Câblage RJ45 cat 6 minimum vers chaque pièce principale",
+          "Fourreau Ø 40 mm depuis DTIO jusqu'au tableau de communication",
+          "Tableau de communication : réserve 20% pour extensions futures"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Vérification et CONSUEL",
+        "contenu": "Avant mise sous tension, l'installateur doit réaliser les vérifications selon NF C 15-100 annexe B : continuité des conducteurs de protection, résistance d'isolement ≥ 0,5 MΩ par circuit, essai de fonctionnement des DDR, mesure de la résistance de prise de terre. Un dossier de vérification doit être remis. Pour les logements neufs, le visa CONSUEL (attestation de conformité) est obligatoire avant le branchement EDF.",
+        "exigences": [
+          "Résistance d'isolement ≥ 0,5 MΩ par circuit (1 MΩ recommandé)",
+          "Test de déclenchement de tous les DDR",
+          "Visa CONSUEL obligatoire pour logements neufs",
+          "Remise du dossier de récolement (schémas, repérages)"
+        ]
+      }
+    ],
+    "remplace": "NF C 15-100 édition 1991 et amendements"
+  },
+  {
+    "reference": "NF C 14-100",
+    "titre": "Installations de branchement à basse tension — Règles",
+    "date_edition": "2008-03",
+    "derniere_mise_a_jour": "2022-09",
+    "lots_concernes": ["electricite"],
+    "domaine_application": "Branchements monophasé et triphasé depuis le réseau de distribution publique jusqu'au point de livraison",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF C 15-100"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Puissance de raccordement et disjoncteur de branchement",
+        "contenu": "La puissance souscrite détermine le calibre du disjoncteur de branchement. Pour un logement individuel : 6 à 60 A monophasé (1,5 à 15 kVA) ou 10 à 60 A triphasé. L'emplacement du coffret de branchement doit être accessible depuis l'extérieur pour l'opérateur réseau. Le compteur Linky est désormais le standard imposé par Enedis.",
+        "exigences": [
+          "Emplacement coffret accessible depuis domaine public",
+          "Hauteur axe compteur : entre 1,20 m et 1,50 m",
+          "Fourreau enrobé de béton depuis limite de propriété",
+          "Compteur Linky : espace dédié dans GTL ou coffret extérieur"
+        ]
+      }
+    ],
+    "remplace": "NF C 14-100 édition 1996"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "reference": "NF DTU 20.1",
+    "titre": "Travaux de maçonnerie — Ouvrages en maçonnerie de petits éléments",
+    "date_edition": "2008-03",
+    "derniere_mise_a_jour": "2020-01",
+    "lots_concernes": ["gros_oeuvre", "maçonnerie"],
+    "domaine_application": "Ouvrages en maçonnerie de briques, blocs de béton, blocs de béton cellulaire, carreaux de plâtre, pour bâtiments courants",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1996-1-1 (Eurocode 6)", "NF EN 771", "NF EN 998"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Provenance et qualité des matériaux — Briques et blocs",
+        "contenu": "Les briques et blocs de maçonnerie doivent être conformes aux normes NF EN 771. Les blocs béton doivent présenter une résistance à la compression minimale de 4 MPa pour les murs non porteurs et 6 MPa pour les murs porteurs. Les briques de terre cuite doivent satisfaire aux exigences de la classe HD pour les maçonneries exposées.",
+        "exigences": [
+          "Résistance à la compression ≥ 4 MPa (non porteur) ou ≥ 6 MPa (porteur)",
+          "Conformité NF EN 771 obligatoire",
+          "Marquage CE requis",
+          "Absorption d'eau conforme à la classe d'exposition"
+        ]
+      },
+      {
+        "article": "3.2",
+        "sujet": "Mortiers de maçonnerie",
+        "contenu": "Les mortiers doivent être conformes à NF EN 998-2. La classe de résistance minimale est M5 pour les maçonneries portantes. Les mortiers à joint mince (1 à 3 mm) sont autorisés pour les blocs rectifiés. Le rapport eau/liant doit être maîtrisé pour assurer la durabilité.",
+        "exigences": [
+          "Classe de résistance ≥ M5 pour murs porteurs",
+          "Classe M2.5 admise pour cloisons non porteuses",
+          "Mortier joint mince : épaisseur 1 à 3 mm sur blocs rectifiés uniquement",
+          "Conservation du mortier ≤ 2h après gâchage"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Épaisseurs minimales des murs",
+        "contenu": "L'épaisseur minimale des murs porteurs est de 15 cm pour les bâtiments à un seul niveau et de 20 cm à partir du deuxième niveau. Les murs de refend porteurs doivent avoir une épaisseur minimale de 15 cm. Les murs de façade soumis aux intempéries doivent présenter une épaisseur totale (mur + revêtement) garantissant l'imperméabilité.",
+        "exigences": [
+          "Mur porteur R+0 : épaisseur ≥ 15 cm",
+          "Mur porteur R+1 et plus : épaisseur ≥ 20 cm",
+          "Mur de façade : vérification de l'imperméabilité selon zone pluviométrique",
+          "Chaînages horizontaux et verticaux obligatoires selon zone sismique"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Chaînages — Dispositions parasismiques",
+        "contenu": "Les chaînages horizontaux sont obligatoires en tête et en pied de chaque niveau. En zones sismiques 2, 3 et 4, des chaînages verticaux sont requis à chaque angle, de part et d'autre des ouvertures et à intervalles réguliers ≤ 5 m. La section minimale des armatures est définie selon NF EN 1998-1 (Eurocode 8).",
+        "exigences": [
+          "Chaînages horizontaux : toutes zones",
+          "Chaînages verticaux : zones sismiques 2, 3 et 4",
+          "Espacement des chaînages verticaux ≤ 5 m",
+          "Ancrage des planchers dans les chaînages"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Contrôles et réception",
+        "contenu": "Avant réception, vérification de la planéité des surfaces (écart ≤ 5 mm sous règle de 2 m), de la verticalité (écart ≤ 1 cm/m, max 2 cm), et de l'équerrage des angles. Les joints doivent être continus et bien remplis. Les fixations et réservations doivent être conformes aux plans.",
+        "exigences": [
+          "Planéité : écart ≤ 5 mm sous règle de 2 m",
+          "Verticalité : ≤ 1 cm/m, maximum 2 cm sur la hauteur totale",
+          "Équerrage : écart ≤ 1 cm par mètre",
+          "Joints pleins, sans vide ni lacune"
+        ]
+      }
+    ],
+    "remplace": "DTU 20.1 édition 1994"
+  },
+  {
+    "reference": "NF DTU 13.1",
+    "titre": "Travaux de fondations superficielles",
+    "date_edition": "2011-09",
+    "derniere_mise_a_jour": "2023-06",
+    "lots_concernes": ["gros_oeuvre", "fondations"],
+    "domaine_application": "Fondations superficielles de bâtiments courants : semelles filantes, isolées, radiers",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1997-1 (Eurocode 7)", "NF P 94-500"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Béton de fondation — Classe d'exposition",
+        "contenu": "Le béton des fondations doit être de classe de résistance minimale C25/30. La classe d'exposition est définie selon NF EN 206 en fonction de l'agressivité du sol et de la présence d'eau. En présence de sulfates, la classe XA s'applique avec un ciment résistant aux sulfates.",
+        "exigences": [
+          "Classe de résistance minimale C25/30",
+          "Classe d'exposition XC2 minimum pour fondations enterrées",
+          "Enrobage des armatures ≥ 40 mm en fondation",
+          "Béton de propreté ≥ 5 cm sous les semelles"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Profondeur hors-gel",
+        "contenu": "La base des fondations doit être ancrée à une profondeur suffisante pour être hors d'atteinte du gel. La profondeur hors-gel varie selon la zone climatique : 50 cm en zone H3, 80 cm en zones H1 et H2, davantage en altitude. En zone de retrait-gonflement des argiles (zones B et C de l'aléa), des dispositions constructives spécifiques sont requises.",
+        "exigences": [
+          "Zone H1/H2 : profondeur hors-gel ≥ 80 cm",
+          "Zone H3 : profondeur hors-gel ≥ 50 cm",
+          "Altitude > 200 m : majoration de la profondeur",
+          "Zone argile : respect de la circulaire du 27 mai 2019"
+        ]
+      }
+    ],
+    "remplace": "DTU 13.1 édition 1995"
+  }
+]

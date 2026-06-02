@@ -1,0 +1,154 @@
+[
+  {
+    "reference": "NF DTU 65.11",
+    "titre": "Dispositifs d'isolation des réseaux de distribution de chaleur et de froid",
+    "date_edition": "1994-01",
+    "derniere_mise_a_jour": "2020-09",
+    "lots_concernes": ["chauffage_cvc", "cvc"],
+    "domaine_application": "Isolation thermique des réseaux de distribution de chaleur et de froid dans les bâtiments",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 15378", "NF EN 12828", "RE2020"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Isolation des canalisations — Épaisseurs minimales",
+        "contenu": "Les canalisations de chauffage en volume non chauffé (combles, vide-sanitaire, gaines techniques extérieures au logement) doivent être isolées. L'épaisseur minimale d'isolant est définie selon la température du fluide et le diamètre de la canalisation. Pour les réseaux eau chaude 80°C : épaisseur ≥ 19 mm pour Ø ≤ 35 mm, ≥ 25 mm pour Ø 35 à 60 mm.",
+        "exigences": [
+          "Isolation obligatoire hors volume chauffé",
+          "Épaisseur ≥ 19 mm pour Ø ≤ 35 mm (réseau 80°C)",
+          "Épaisseur ≥ 25 mm pour Ø 35 à 60 mm (réseau 80°C)",
+          "Conductivité thermique isolant : λ ≤ 0,040 W/(m.K)"
+        ]
+      },
+      {
+        "article": "4.1",
+        "sujet": "Équilibrage et régulation",
+        "contenu": "Les réseaux de distribution doivent être équilibrés hydrauliquement. Chaque corps de chauffe doit être muni d'une vanne de réglage ou d'un robinet thermostatique. La régulation doit comprendre au minimum une sonde extérieure pour la loi d'eau et une régulation par zone ou pièce. En RE2020, une régulation pièce par pièce est fortement recommandée.",
+        "exigences": [
+          "Robinets thermostatiques sur tous les émetteurs (sauf pièce avec thermostat)",
+          "Régulation par sonde extérieure (loi d'eau) obligatoire",
+          "Équilibrage hydraulique : débits vérifiés à réception",
+          "Purgeurs automatiques en points hauts du réseau"
+        ]
+      }
+    ],
+    "remplace": "DTU 65.11 édition 1981"
+  },
+  {
+    "reference": "RE2020",
+    "titre": "Réglementation Environnementale 2020 — Exigences thermiques et carbone",
+    "date_edition": "2022-01",
+    "derniere_mise_a_jour": "2024-01",
+    "lots_concernes": ["chauffage_cvc", "isolation_ite", "cvc"],
+    "domaine_application": "Bâtiments neufs résidentiels et tertiaires soumis à permis de construire déposé depuis le 1er janvier 2022",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 12831", "NF EN 15193"],
+    "points_cles": [
+      {
+        "article": "Bbio",
+        "sujet": "Besoin bioclimatique — Isolation et conception",
+        "contenu": "Le besoin bioclimatique Bbio traduit la qualité intrinsèque du bâti (isolation, compacité, orientation, surface vitrée). L'exigence RE2020 fixe un Bbio maximal selon la zone climatique et le type de bâtiment. Maison individuelle zone H1 : Bbiomax = 63 points (à modulation). Le Bbio remplace le Bbiomax RT2012 avec des exigences renforcées de 30%.",
+        "exigences": [
+          "Bbio ≤ Bbiomax selon zone et type de bâtiment",
+          "Maison individuelle H1 : Bbiomax ≈ 63 (modulation selon altitude, surface)",
+          "Justification par calcul STD (simulation thermique dynamique) ou méthode simplifiée",
+          "Attestation RE2020 à déposer en mairie à l'achèvement"
+        ]
+      },
+      {
+        "article": "Cep",
+        "sujet": "Consommation d'énergie primaire",
+        "contenu": "La consommation d'énergie primaire Cep est calculée pour les 5 usages réglementés : chauffage, refroidissement, ECS, éclairage, auxiliaires. L'exigence RE2020 : Cep ≤ Cepmax. Coefficient d'énergie primaire : 2,3 pour l'électricité (vs 2,58 en RT2012), 1,0 pour le bois, 1,0 pour les réseaux de chaleur renouvelable. La RE2020 interdit de fait le chauffage au gaz pur (Cepmax inatteignable).",
+        "exigences": [
+          "Cep ≤ Cepmax (valeur selon usage et zone)",
+          "Cepnr (non renouvelable) : indicateur complémentaire",
+          "Coefficient énergie primaire électricité : 2,3",
+          "Pas de chauffage gaz seul en logement neuf (RE2020)"
+        ]
+      },
+      {
+        "article": "DH",
+        "sujet": "Confort d'été — Degrés-heures d'inconfort",
+        "contenu": "L'indicateur DH (Degrés-Heures) mesure l'inconfort thermique estival. L'exigence RE2020 fixe un DH maximal. Au-delà, des dispositions actives (ventilateurs, nuit), passives (protections solaires, inertie) ou la climatisation doivent être justifiées. Cet indicateur est nouveau par rapport à la RT2012 et renforce l'importance de la conception bioclimatique.",
+        "exigences": [
+          "DH ≤ DHmax selon zone climatique",
+          "Protection solaire des baies sud obligatoire si DH dépassé",
+          "Brasseurs d'air admis comme mesure de compensation",
+          "Calcul STD recommandé pour les bâtiments complexes"
+        ]
+      },
+      {
+        "article": "IC",
+        "sujet": "Impact carbone — Analyse du cycle de vie",
+        "contenu": "La RE2020 introduit l'indicateur IC (Impact Carbone) mesurant les émissions de gaz à effet de serre sur tout le cycle de vie du bâtiment : construction, exploitation, fin de vie. L'exigence évolue par seuils : 2022 (IC énergie + IC construction), 2025, 2028, 2031. L'utilisation de matériaux biosourcés et à faible impact carbone est favorisée.",
+        "exigences": [
+          "IC construction ≤ ICmax selon type de bâtiment (seuil 2022)",
+          "Déclaration Environnementale de Produit (DEP/FDES) requise pour matériaux",
+          "Favoriser matériaux biosourcés (bois, paille, chanvre)",
+          "Attestation IC à fournir à l'achèvement"
+        ]
+      },
+      {
+        "article": "VMC",
+        "sujet": "Ventilation — Exigences RE2020",
+        "contenu": "La ventilation mécanique contrôlée (VMC) est obligatoire dans les logements neufs. La VMC double flux est fortement recommandée en RE2020 pour réduire les déperditions thermiques (rendement échangeur ≥ 85%). La VMC simple flux hygroréglable B est admise. Les débits réglementaires sont définis par l'arrêté du 24 mars 1982 modifié.",
+        "exigences": [
+          "VMC obligatoire dans tout logement neuf",
+          "VMC double flux : rendement échangeur ≥ 85%",
+          "Débits minimaux : 15 m³/h cuisine, 15 m³/h SDB, 30 m³/h WC séparé (SF hygro)",
+          "Entretien des filtres : notice de maintenance fournie",
+          "Mesure des débits à réception"
+        ]
+      },
+      {
+        "article": "ECS",
+        "sujet": "Eau Chaude Sanitaire — Production",
+        "contenu": "La production d'ECS doit prioritairement recourir aux énergies renouvelables. Le chauffe-eau thermodynamique (CET) est la solution de référence en logement individuel (COP ≥ 3,2). Le chauffe-eau solaire individuel (CESI) avec appoint est admis. L'ECS électrique à résistance seule n'est plus compétitive sur le plan du Cep.",
+        "exigences": [
+          "COP chauffe-eau thermodynamique ≥ 3,2",
+          "Volume ballon adapté à l'usage (≥ 200 L pour 4 personnes)",
+          "Isolation du ballon : classe B minimum",
+          "Bac de rétention sous ballon électrique obligatoire",
+          "Protection anti-légionelles : thermostat ≥ 55°C"
+        ]
+      }
+    ],
+    "remplace": "RT2012"
+  },
+  {
+    "reference": "NF DTU 65.14",
+    "titre": "Exécution de planchers chauffants à eau chaude",
+    "date_edition": "2013-10",
+    "derniere_mise_a_jour": "2022-01",
+    "lots_concernes": ["chauffage_cvc", "cvc", "revetements_sol"],
+    "domaine_application": "Planchers chauffants hydrauliques à eau chaude intégrés dans la chape, pour bâtiments courants",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1264", "NF DTU 52.1"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Température de surface et flux thermique",
+        "contenu": "La température de surface du plancher chauffant ne doit pas dépasser 28°C dans les zones d'occupation normale et 35°C dans les zones périphériques et salles de bain. La température de départ maximum est de 45°C. La puissance maximale transmissible est de 100 W/m² en zone courante.",
+        "exigences": [
+          "Température surface ≤ 28°C en zone occupation",
+          "Température surface ≤ 35°C en zone périphérique et SDB",
+          "Température départ eau ≤ 45°C",
+          "Essai de pression hydraulique avant coulage de la chape"
+        ]
+      },
+      {
+        "article": "4.1",
+        "sujet": "Chape sur plancher chauffant",
+        "contenu": "La chape sur plancher chauffant doit être une chape flottante, désolidarisée des murs par une bande périphérique compressible (20 mm minimum). L'épaisseur minimale au-dessus des tubes est de 45 mm pour une chape ciment, 30 mm pour une chape anhydrite. La mise en chauffe progressive est obligatoire après séchage.",
+        "exigences": [
+          "Bande périphérique compressible : épaisseur ≥ 20 mm",
+          "Épaisseur chape ciment au-dessus tube : ≥ 45 mm",
+          "Épaisseur chape anhydrite : ≥ 30 mm",
+          "Mise en chauffe progressive : J1 à 25°C, J2 à 35°C, J3 à 45°C",
+          "Délai séchage chape avant revêtement de sol : selon fabricant"
+        ]
+      }
+    ],
+    "remplace": "DTU 65.14 édition 1999"
+  }
+]

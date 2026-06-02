@@ -1,0 +1,94 @@
+[
+  {
+    "reference": "NF DTU 36.5",
+    "titre": "Mise en œuvre des fenêtres et portes extérieures",
+    "date_edition": "2010-12",
+    "derniere_mise_a_jour": "2021-03",
+    "lots_concernes": ["menuiseries_ext"],
+    "domaine_application": "Pose de fenêtres, portes-fenêtres, baies coulissantes en bois, PVC, aluminium, mixte, dans tous types de parois",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 14351-1", "NF EN 12207", "NF EN 12208", "NF EN 12210"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Performances AEV — Air, Eau, Vent",
+        "contenu": "Les menuiseries extérieures doivent satisfaire aux performances AEV définies selon la zone pluviométrique et la hauteur du bâtiment. Perméabilité à l'air : classe A*4 minimum. Étanchéité à l'eau : classe E*6B minimum en zone normale, E*7B en zone exposée. Résistance au vent : classe V*A2 en zone courante. Ces performances sont certifiées par essais selon NF EN 1026, 1027, 12211.",
+        "exigences": [
+          "Perméabilité à l'air : classe ≥ A*4 (NF EN 12207)",
+          "Étanchéité à l'eau : classe ≥ E*6B (NF EN 12208)",
+          "Résistance au vent : classe ≥ V*A2 (NF EN 12210)",
+          "Certification ACOTHERM ou équivalent recommandée"
+        ]
+      },
+      {
+        "article": "3.2",
+        "sujet": "Performance thermique — Coefficient Uw",
+        "contenu": "Le coefficient de transmission thermique Uw des menuiseries doit être conforme aux exigences de la RE2020. En maison individuelle neuve, Uw ≤ 1,3 W/(m².K) pour les fenêtres en façade courante. Le facteur solaire gw doit être pris en compte pour limiter les surchauffes estivales. Le coefficient de pont thermique Ψ doit être intégré au calcul RE2020.",
+        "exigences": [
+          "Uw ≤ 1,3 W/(m².K) pour logements neufs RE2020",
+          "Double vitrage argon 4/16/4 minimum ou triple vitrage",
+          "Facteur solaire gw selon orientation (gw ≤ 0,36 au sud recommandé)",
+          "Traitement des ponts thermiques en tableau de fenêtre"
+        ]
+      },
+      {
+        "article": "4.1",
+        "sujet": "Calfeutrement et étanchéité à la pose",
+        "contenu": "Le calfeutrement entre le dormant et la paroi doit être réalisé sur 3 faces selon la règle des 3/3 : étanchéité à l'eau côté extérieur, continuité de la barrière vapeur côté intérieur, isolant dans le fond de feuillure. Le mastic de calfeutrement extérieur doit être conforme à NF EN ISO 11600, classe F25LM minimum. Les membranes d'étanchéité pré-comprimées (ou équivalent) sont admises.",
+        "exigences": [
+          "Règle des 3 couches (3/3) : pare-pluie / isolant / frein-vapeur",
+          "Mastic extérieur : classe F25LM NF EN ISO 11600",
+          "Profondeur d'encastrement du dormant ≥ 1/3 de l'épaisseur du mur",
+          "Fixations : vis Ø ≥ 7 mm, entraxe ≤ 700 mm"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Accessibilité PMR — Dimensions et seuils",
+        "contenu": "Pour les bâtiments soumis aux obligations PMR (ERP, logements collectifs neufs), la largeur de passage libre des portes d'entrée est de 90 cm minimum (83 cm après défalcation du vantail). Les seuils ne doivent pas dépasser 2 cm de hauteur, avec un chanfrein à 45°. Les poignées de fenêtres doivent être actionnables à hauteur de 0,90 à 1,30 m.",
+        "exigences": [
+          "Largeur passage libre ≥ 90 cm (ERP) ou 83 cm (logements neufs)",
+          "Seuil ≤ 2 cm, chanfreiné à 45°",
+          "Poignées entre 0,90 m et 1,30 m de hauteur",
+          "Contraste visuel poignée/dormant pour malvoyants (ERP)"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Contrôle et réception",
+        "contenu": "À réception, vérification du bon fonctionnement de toutes les ouvrants (fermeture, verrouillage, mécanismes d'oscillo-battant). Contrôle visuel de l'état des vitrages (absence de bris, de rayures, de défauts de fabrication). Vérification de l'étanchéité des joints. Fourniture des PV d'essais AEV, des fiches techniques et des instructions de maintenance.",
+        "exigences": [
+          "Test fonctionnel de chaque ouvrant",
+          "Vérification étanchéité joints périphériques",
+          "Remise des PV d'essais AEV et fiches techniques",
+          "Notice de maintenance fournie par le fabricant"
+        ]
+      }
+    ],
+    "remplace": "DTU 36.1 édition 1993 et DTU 37.1 édition 1993"
+  },
+  {
+    "reference": "NF EN 14351-1",
+    "titre": "Fenêtres et portes — Norme produit, caractéristiques de performance",
+    "date_edition": "2006-06",
+    "derniere_mise_a_jour": "2016-01",
+    "lots_concernes": ["menuiseries_ext"],
+    "domaine_application": "Caractéristiques de performance des fenêtres et portes extérieures en bois, PVC, aluminium",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 12207", "NF EN 12208", "NF EN 12210", "NF EN 673"],
+    "points_cles": [
+      {
+        "article": "Marquage CE",
+        "sujet": "Déclaration de performance obligatoire",
+        "contenu": "Toutes les fenêtres et portes extérieures mises sur le marché européen doivent être marquées CE avec une Déclaration de Performance (DdP) indiquant les valeurs des caractéristiques essentielles : perméabilité à l'air, étanchéité à l'eau, résistance au vent, Uw, isolation acoustique Rw. Le marquage CE est obligatoire depuis le 1er février 2010.",
+        "exigences": [
+          "Marquage CE obligatoire avec étiquette CE",
+          "Déclaration de Performance (DdP) fournie par le fabricant",
+          "Traçabilité : numéro de lot ou de série identifiable",
+          "Valeurs AEV et Uw déclarées et vérifiables"
+        ]
+      }
+    ],
+    "remplace": "NF EN 14351-1:2006"
+  }
+]

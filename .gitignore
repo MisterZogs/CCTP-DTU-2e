@@ -1,0 +1,33 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Variables d'environnement (contient les clés API)
+.env
+
+# Base de données locale
+*.db
+*.db-shm
+*.db-wal
+
+# ChromaDB (données vectorielles locales)
+chroma_data/
+
+# Fichiers générés
+*.docx
+*.pdf
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/

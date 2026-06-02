@@ -1,0 +1,106 @@
+[
+  {
+    "reference": "NF DTU 31.1",
+    "titre": "Charpente et escaliers en bois",
+    "date_edition": "2017-04",
+    "derniere_mise_a_jour": "2022-01",
+    "lots_concernes": ["charpente_bois", "charpente"],
+    "domaine_application": "Charpentes traditionnelles en bois massif, fermettes industrialisées, escaliers en bois pour bâtiments courants",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1995-1-1 (Eurocode 5)", "NF B 52-001", "NF EN 338"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Qualité et classe de résistance du bois",
+        "contenu": "Le bois massif doit être classé selon NF EN 338 avec une classe de résistance minimale C18 pour les éléments de charpente courants et C24 pour les pièces de forte sollicitation. L'humidité à la mise en œuvre ne doit pas dépasser 18% pour le bois massif. Le bois doit être exempt de défauts rédhibitoires (fentes traversantes, nœuds vicieux de grande dimension).",
+        "exigences": [
+          "Classe de résistance minimale C18 pour éléments courants",
+          "Classe C24 recommandée pour pièces principales",
+          "Humidité à la mise en œuvre ≤ 18%",
+          "Marquage CE selon NF EN 14081",
+          "Traitement fongicide et insecticide en classe d'emploi 2 minimum"
+        ]
+      },
+      {
+        "article": "3.2",
+        "sujet": "Bois lamellé-collé (BLC)",
+        "contenu": "Le bois lamellé-collé doit être conforme à NF EN 14080. La classe de résistance minimale est GL24h. Les colles utilisées doivent être de classe de durabilité D4 pour les ouvrages exposés à l'humidité. Les panneaux dérivés du bois (OSB, contreplaqué) doivent être conformes aux normes NF EN 300, NF EN 636.",
+        "exigences": [
+          "BLC : conformité NF EN 14080, classe ≥ GL24h",
+          "Colle classe D4 pour exposition à l'humidité",
+          "OSB 3 ou OSB 4 pour contreventement en zone humide",
+          "Contreplaqué : NF EN 636 classe 3 en zone exposée"
+        ]
+      },
+      {
+        "article": "4.1",
+        "sujet": "Assemblages et connecteurs",
+        "contenu": "Les assemblages doivent être dimensionnés selon NF EN 1995-1-1. Les boulons et tiges filetées doivent être en acier galvanisé ou inoxydable selon l'environnement. Les connecteurs métalliques (sabots, équerres) doivent être conformes à un Avis Technique ou ETA. Les assemblages par entures multiples doivent satisfaire à NF EN 385.",
+        "exigences": [
+          "Boulonnerie : acier galvanisé à chaud Z275 minimum",
+          "Connecteurs : conformes Avis Technique ou ETA en vigueur",
+          "Rondelles obligatoires sous têtes de boulons",
+          "Serrage des boulons après séchage du bois en œuvre"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Contreventement",
+        "contenu": "Le contreventement de la charpente doit reprendre les efforts horizontaux dus au vent selon NF EN 1991-1-4 et les effets sismiques selon NF EN 1998-1. La triangulation ou les pannes faîtières de rigidité doivent être calculées. Les panneaux de contreventement (OSB, panneaux particules) doivent être fixés selon les prescriptions du calculateur.",
+        "exigences": [
+          "Calcul des efforts de vent selon NF EN 1991-1-4 et règles NV65",
+          "Contreventement en zone sismique 2, 3, 4 : calcul parasismique obligatoire",
+          "Fixation des panneaux OSB : clous annelés Ø 2.8 × 65 mm maxi 150 mm",
+          "Note de calcul charpente obligatoire fournie par le charpentier"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Traitement de préservation",
+        "contenu": "La classe d'emploi du bois est définie selon NF EN 335. Pour une charpente sous couverture non exposée directement aux intempéries (classe d'emploi 2), un traitement insecticide est obligatoire en zone à risque termites (arrêté du 27 juin 2006). En zone non classée, le traitement est recommandé. Les produits de préservation doivent être homologués.",
+        "exigences": [
+          "Classe d'emploi 2 pour charpente sous couverture",
+          "Traitement termites obligatoire dans les communes classées à risque",
+          "Produit de traitement : liste positive conforme à l'arrêté du 27 juin 2006",
+          "Certificat de traitement fourni par l'entreprise"
+        ]
+      }
+    ],
+    "remplace": "DTU 31.1 édition 1993"
+  },
+  {
+    "reference": "NF DTU 31.2",
+    "titre": "Construction de maisons et bâtiments à ossature en bois",
+    "date_edition": "2019-09",
+    "derniere_mise_a_jour": "2023-01",
+    "lots_concernes": ["charpente_bois", "ossature bois"],
+    "domaine_application": "Maisons individuelles et bâtiments collectifs à ossature bois de hauteur ≤ 18 m, poteaux-poutres, panneaux structuraux",
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1995-1-1 (Eurocode 5)", "NF EN 14081", "NF EN 300"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Montants d'ossature — Section et espacement",
+        "contenu": "Les montants d'ossature bois doivent avoir une section minimale de 36 × 145 mm en classe C18. L'entraxe standard est de 600 mm, compatible avec les largeurs courantes d'isolants. En zone sismique 3 et 4, l'entraxe peut être réduit à 400 mm et la section augmentée selon la note de calcul.",
+        "exigences": [
+          "Section minimale montants : 36 × 145 mm (C18)",
+          "Entraxe standard : 600 mm",
+          "Lisse basse : protection contre l'humidité (pare-pluie ou seuil relevé)",
+          "Lisse basse sur vide-sanitaire : protection contre les termites"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Étanchéité à l'air et barrière vapeur",
+        "contenu": "Un frein-vapeur (Sd ≥ 18 m) doit être posé côté chaud de l'isolant pour éviter la condensation dans la paroi. Les jonctions doivent être réalisées avec des adhésifs compatibles garantissant la continuité de la barrière. L'étanchéité à l'air de l'ensemble de l'enveloppe doit satisfaire aux exigences de la RE2020.",
+        "exigences": [
+          "Frein-vapeur : valeur Sd ≥ 18 m côté intérieur",
+          "Continuité du frein-vapeur aux jonctions mur/plancher/toiture",
+          "Test d'étanchéité à l'air (blower door) recommandé en RE2020",
+          "Objectif RE2020 : Q4Pa,surf ≤ 0,6 m³/(h·m²) logements"
+        ]
+      }
+    ],
+    "remplace": "DTU 31.2 édition 2011"
+  }
+]
