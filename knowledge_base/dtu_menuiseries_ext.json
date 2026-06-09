@@ -1,0 +1,90 @@
+[
+  {
+    "reference": "NF DTU 36.5",
+    "titre": "Travaux de bâtiment — Mise en œuvre des fenêtres et portes extérieures",
+    "date_edition": "2010-09",
+    "derniere_mise_a_jour": "2020-07",
+    "lots_concernes": ["menuiseries_ext"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 14351-1", "NF EN 12208", "NF EN 12210", "NF EN 12211"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Menuiseries aluminium — Profilés et rupture de pont thermique",
+        "contenu": "Profilés aluminium à rupture de pont thermique (RPT) obligatoires pour RE2020. Rupture par barrette polyamide ou injection polyuréthane. Finition : anodisation, thermolaquage ou sublimation. Système de drainage intégré dans les ouvrants.",
+        "exigences": [
+          "RPT obligatoire bâtiments neufs RE2020",
+          "Uw fenêtre ≤ 1,3 W/(m².K) (RE2020)",
+          "Classement AEV minimum : A*3 E*6B V*1 selon exposition",
+          "Drainage : trous débouchants côté extérieur, 5 mm minimum de section"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Pose en feuillure ou en applique — Liaisons support",
+        "contenu": "Pose en feuillure : châssis encastré dans l'épaisseur du mur. Pose en applique intérieure ou extérieure : fixation sur tableau. Liaisons étanches à l'air (côté intérieur) et à l'eau (côté extérieur).",
+        "exigences": [
+          "Fixation : pattes de scellement ou vis dans dormant tous les 70 cm",
+          "Calage : cales de réglage niveau et aplomb, cales de portée",
+          "Joint intérieur (côté chaud) : mastic acrylique ou membrane frein-vapeur",
+          "Joint extérieur : mastic élastomère, fond de joint polyéthylène"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Stores et protections solaires — Intégration",
+        "contenu": "Stores à enroulement (screen, occultant) : motorisés ou manuels. Guidage par câble inox ou coulisses aluminium. Caisson intégré en faux-plafond ou appliqué en tableau. Stores screen : filtration solaire, maintien de la vue.",
+        "exigences": [
+          "Motorisation : 230V ou 24V courant continu (solaire)",
+          "Caisson store : étanchéité à la pluie si en tableau extérieur",
+          "Guidage câble : tension réglable, blocage en position basse",
+          "Store screen : perméabilité à l'air selon classement"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Grilles et volets de sécurité — Motorisation",
+        "contenu": "Volets roulants sécurité : tablier aluminium extrudé ou acier galvanisé. Motorisation électrique, groupe de sécurité avec détecteur d'obstacle. Coffre apparent ou intégré. Verrouillage en position basse.",
+        "exigences": [
+          "Tablier acier : épaisseur lame ≥ 1,5 mm",
+          "Motorisation : moteur tubulaire 230V avec fin de course",
+          "Détecteur d'obstacle obligatoire (sécurité personnes)",
+          "Résistance à l'effraction : classement RC selon usage"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Contrôle de mise en œuvre",
+        "contenu": "Vérification après pose : verticalité et horizontalité des dormants, calage correct, jeux périphériques conformes, fonctionnement des ouvrants (manœuvre légère sans coincement), étanchéité des joints périmétraux.",
+        "exigences": [
+          "Verticalité dormant : ± 1 mm/m",
+          "Flèche traverse haute : ≤ 1/300 de la portée",
+          "Essai étanchéité : test arrosage ou soufflerie selon AEV exigé",
+          "Notice de maintenance remise au client"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF EN 14351-1",
+    "titre": "Fenêtres et portes — Norme produit — Partie 1 : Fenêtres et portes piétonnes extérieures",
+    "date_edition": "2006-08",
+    "derniere_mise_a_jour": "2016-03",
+    "lots_concernes": ["menuiseries_ext"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 12207", "NF EN 12208", "NF EN 12210"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Classement AEV — Perméabilité à l'air, étanchéité eau, résistance vent",
+        "contenu": "Classement AEV obligatoire sur marquage CE. Perméabilité à l'air : classe 0 à 4. Étanchéité à l'eau : classe 1A à 9A et 1B à 9B. Résistance au vent : classe 1 à 5.",
+        "exigences": [
+          "Zone exposée (façade > 18m) : A*4 E*7A V*3 minimum",
+          "Zone normale : A*3 E*6B V*2 minimum",
+          "Zone protégée : A*2 E*4A V*1 minimum",
+          "Marquage CE obligatoire depuis 2013"
+        ]
+      }
+    ]
+  }
+]

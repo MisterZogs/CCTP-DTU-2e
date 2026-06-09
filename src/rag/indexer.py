@@ -8,6 +8,7 @@ from src.config import settings
 
 _client = None
 _collection = None
+_examples_collection = None
 
 
 def _get_client() -> chromadb.PersistentClient:
@@ -36,6 +37,21 @@ def get_collection():
         metadata={"hnsw:space": "cosine"},
     )
     return _collection
+
+
+def get_examples_collection():
+    global _examples_collection
+    if _examples_collection is not None:
+        return _examples_collection
+
+    client = _get_client()
+    ef = _get_embedding_function()
+    _examples_collection = client.get_or_create_collection(
+        name="cctp_exemples",
+        embedding_function=ef,
+        metadata={"hnsw:space": "cosine"},
+    )
+    return _examples_collection
 
 
 def index_knowledge_base(force: bool = False) -> int:

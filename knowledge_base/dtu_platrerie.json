@@ -1,0 +1,113 @@
+[
+  {
+    "reference": "NF DTU 25.41",
+    "titre": "Travaux de bâtiment — Ouvrages en plaques de parement en plâtre — Plaques à faces cartonnées",
+    "date_edition": "2012-09",
+    "derniere_mise_a_jour": "2018-04",
+    "lots_concernes": ["cloisons", "platrerie"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 520", "NF EN 14195", "NF P 72-203"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Plaques de plâtre — Caractéristiques et types",
+        "contenu": "Les plaques de plâtre à parements cartonnés doivent être conformes à NF EN 520. Types courants : BA13 (standard), BA18, BA25. Type H1 pour zones humides (salles de bains, cuisines). Type F pour résistance au feu. Type D pour densité augmentée (vis).",
+        "exigences": [
+          "Épaisseur minimale cloisons séparatives : 13 mm",
+          "Zones humides : plaques type H1 ou H2 obligatoires",
+          "Résistance au feu : plaques type F + ossature adaptée",
+          "Marquage CE obligatoire"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Ossatures métalliques — Rails et montants",
+        "contenu": "Ossatures en acier galvanisé conformes à NF EN 14195. Rails R48, R70, R100 ; montants M48, M70, M100. Entraxe standard 600 mm. Hauteur maximale sans renforcement selon tableau du DTU.",
+        "exigences": [
+          "Acier galvanisé minimum Z275",
+          "Épaisseur acier ≥ 0,6 mm",
+          "Hauteur max cloison M48 = 3,20 m",
+          "Hauteur max cloison M70 = 4,20 m",
+          "Entraxe 600 mm standard, 400 mm en zone de fixation renforcée"
+        ]
+      },
+      {
+        "article": "4.3",
+        "sujet": "Doublages — Isolation thermique et acoustique",
+        "contenu": "Doublages sur maçonnerie : collés (colle-plâtre) ou sur ossature. Isolation thermique : laine minérale entre ossature ou polyuréthane collé. Performance acoustique : classement Rw selon destination du local.",
+        "exigences": [
+          "Doublage collé : surface de collage ≥ 40% de la plaque",
+          "Respect de la RE2020 pour les parois donnant sur l'extérieur",
+          "Laine minérale : conductivité λ ≤ 0,040 W/(m.K)",
+          "Classement réaction au feu des matériaux isolants"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Cloisons de distribution",
+        "contenu": "Cloisons séparatives entre locaux. Types : cloison simple (1 montant, 2 plaques), cloison double (2 rangées de montants), cloison avec isolation acoustique renforcée (laine minérale entre montants).",
+        "exigences": [
+          "Cloison simple avec laine : affaiblissement ≥ 40 dB",
+          "Cloison double : affaiblissement ≥ 50 dB",
+          "Traitement des jonctions mur/sol/plafond avec joint acoustique",
+          "Bande résiliente sous rail sol obligatoire en logement"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Plafonds suspendus",
+        "contenu": "Faux-plafonds sur ossature métallique : fourrures, cornières périmètrales, suspentes. Types de plaques : BA13, BA18 selon charge. Entraxe fourrures 600 mm maximum.",
+        "exigences": [
+          "Suspentes tous les 1,20 m maximum",
+          "Fourrures entraxe 600 mm",
+          "Cornière périmètrale fixée tous les 600 mm",
+          "Charge admissible selon notice du fabricant"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Traitement des joints",
+        "contenu": "Joints entre plaques : bande à enduire + enduit de lissage. Trois passes minimum : première passe (bourrage), deuxième passe (remplissage), passe de finition. Temps de séchage entre passes : 24h minimum.",
+        "exigences": [
+          "Bande de papier ou armée selon localisation",
+          "Enduit en poudre à gâcher ou en pâte prêt à l'emploi",
+          "Séchage complet avant peinture : 7 jours minimum",
+          "Traitement angle rentrant : bande seule",
+          "Traitement angle saillant : cornière d'angle + bande"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 25.42",
+    "titre": "Travaux de bâtiment — Ouvrages de doublage et habillage en panneaux ou plaques",
+    "date_edition": "2014-06",
+    "derniere_mise_a_jour": "2022-03",
+    "lots_concernes": ["cloisons", "platrerie"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 520", "NF EN 14063-1"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Doublages collés — Conditions d'application",
+        "contenu": "Doublage collé sur supports maçonnés sains, plans et propres. Humidité résiduelle du support ≤ 4%. Température de mise en œuvre : entre +5°C et +30°C.",
+        "exigences": [
+          "Support : briques, béton, béton cellulaire",
+          "Planéité du support : tolérance ± 10 mm sous règle de 2 m",
+          "Humidité support ≤ 4% avant pose",
+          "Protection contre l'eau de ruissellement pendant la prise"
+        ]
+      },
+      {
+        "article": "3.2",
+        "sujet": "Doublages sur ossature",
+        "contenu": "Ossature en profilés métalliques fixée mécaniquement au support. Isolation intégrée entre montants. Lame d'air possible entre support et ossature pour désolidarisation acoustique.",
+        "exigences": [
+          "Fixation ossature : chevilles adaptées au support",
+          "Isolation : laine de verre ou roche classement A1 ou A2",
+          "Lame d'air désolidarisée : 20 mm minimum"
+        ]
+      }
+    ]
+  }
+]

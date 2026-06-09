@@ -1,0 +1,79 @@
+[
+  {
+    "reference": "NF DTU 36.2",
+    "titre": "Travaux de bâtiment — Menuiserie extérieure — Partie 1 : Cahier des clauses techniques types",
+    "date_edition": "2010-02",
+    "derniere_mise_a_jour": "2018-11",
+    "lots_concernes": ["menuiseries_int", "menuiseries_bois"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 942", "NF EN 14220", "NF EN 14221", "NF B 52-001"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Qualité des bois — Essence et classe d'emploi",
+        "contenu": "Bois massifs conformes à NF EN 942 et NF B 52-001. Essence selon classe d'emploi. Teneur en eau à la pose : 9% ± 3% pour locaux chauffés, 12% ± 3% pour locaux non chauffés.",
+        "exigences": [
+          "Humidité bois massif intérieur : 9% ± 3%",
+          "Bois contreplaqué : NF EN 636, classe de liaison selon usage",
+          "Bois massif structure : résistance mécanique C18 minimum",
+          "MDF et panneaux dérivés : classe E1 (formaldéhyde)"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Portes intérieures — Types et performances",
+        "contenu": "Portes intérieures : bloc-porte (huisserie + vantail) ou vantail seul. Types : plein, alvéolaire, à âme en nid d'abeilles, à isolation acoustique. Performances acoustiques selon destination (logement : Rw ≥ 25 dB inter-pièce).",
+        "exigences": [
+          "Portes communicantes logements : Rw ≥ 25 dB",
+          "Portes locaux bruyants (buanderie, technique) : Rw ≥ 30 dB",
+          "Huisseries avec bande acoustique de compression",
+          "Jeu sous porte : 10 mm en locaux chauffés (reprise air)"
+        ]
+      },
+      {
+        "article": "5.3",
+        "sujet": "Plinthes et habillages — Mise en œuvre",
+        "contenu": "Plinthes en bois massif ou MDF plaqué. Fixation par clouage ou collage. Jonction plinthe/parquet : quart-de-rond ou couvre-joint. Coupes d'onglet aux angles rentrants et saillants.",
+        "exigences": [
+          "Plinthe : fixation tous les 40 cm maximum",
+          "Angle rentrant : coupe d'onglet à 45° ou jonction à recouvrement",
+          "Angle saillant : coupe d'onglet à 45°",
+          "Joint de dilatation entre plinthe et sol : 10 mm minimum"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Habillages muraux en bois — Lambris et bardages intérieurs",
+        "contenu": "Lambris bois massif ou MDF sur tasseaux ou ossature. Tasseaux : section minimale 22x38 mm, espacement 600 mm. Fixation lambris : clips invisibles ou clouage apparent. Finition : vernis, lasure ou peinture.",
+        "exigences": [
+          "Tasseaux fixés sur chevilles expansion ou vis béton",
+          "Lame d'air ventilée entre support et habillage : 20 mm minimum",
+          "Clip ou agrafe : acier inox en zones humides",
+          "Joint de dilatation habillage/sol : 10 mm avec couvre-joint"
+        ]
+      },
+      {
+        "article": "6.2",
+        "sujet": "Mobilier et aménagements bois sur mesure",
+        "contenu": "Meubles, comptoirs, tables sur mesure : assemblages par tenon-mortaise, tourillons, vis ou boulonnage. Panneaux : MDF hydrofuge (zones humides), panneaux multiplis ou contreplaqué bouleau. Chants : ABS ou bois massif plaqué.",
+        "exigences": [
+          "Panneaux cuisine/sanitaires : MDF hydrofuge classe P5",
+          "Chants ABS : épaisseur 2 mm minimum",
+          "Quincaillerie : classe de corrosion adaptée au local",
+          "Vérins de réglage pour fixation au sol : acier ou nylon"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Plafonds bois — Caissons et retombées",
+        "contenu": "Plafonds bois sur ossature métallique ou bois. Lames bois massif, lambris PVC imitant bois, ou panneaux contreplaqué. Ossature : fourrures métalliques ou tasseaux bois sur suspentes.",
+        "exigences": [
+          "Ossature métallique : profilés acier galvanisé",
+          "Tasseaux bois : traitement fongicide classe IV",
+          "Suspentes : toutes les 1,20 m maximum",
+          "Joint périphérique : 5 mm au mur (dilatation)"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "reference": "NF DTU 52.2",
+    "titre": "Travaux de bâtiment — Pose collée des revêtements céramiques et assimilés — Carreaux et dalles céramiques, pierres naturelles et agglomérés de pierres",
+    "date_edition": "2019-09",
+    "derniere_mise_a_jour": "2023-01",
+    "lots_concernes": ["carrelage"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 14411", "NF EN 12004", "NF EN 13888", "NF EN 13813"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Préparation du support — Ragréage",
+        "contenu": "Le support doit être plan, propre, sain et cohésif. Tolérance de planéité : ± 3 mm sous règle de 2 m. En cas de dénivellation > 5 mm, ragréage préalable obligatoire. Ragréage à base de liants hydrauliques, conformes à NF EN 13813.",
+        "exigences": [
+          "Planéité support : ± 3 mm sous règle de 2 m",
+          "Ragréage autolissant classe CT-C20-F6 minimum",
+          "Délai de séchage ragréage : 1 jour par mm d'épaisseur",
+          "Résistance traction ragréage ≥ 0,5 MPa",
+          "Humidité résiduelle support avant pose ≤ 4% (Humimètre CM)"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Primaires d'accrochage",
+        "contenu": "Application d'un primaire d'accrochage sur supports absorbants, lissés ou à risque de désolidarisation. Primaires conformes aux prescriptions des fabricants de colles.",
+        "exigences": [
+          "Primaire acrylique sur supports anciens poncés",
+          "Primaire époxy sur supports non absorbants (acier, résine)",
+          "Temps de séchage avant pose colle : selon fiche technique fabricant"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Mortiers-colles — Classification et choix",
+        "contenu": "Mortiers-colles conformes à NF EN 12004. Classe C1 (colle ciment standard), C2 (colle ciment améliorée), D1/D2 (colle dispersion), R (colle réaction époxy). Indice T (anti-glissement), E (temps ouvert étendu), F (prise rapide).",
+        "exigences": [
+          "Carreaux > 30x30 cm : colle C2 minimum",
+          "Grands formats > 60x60 cm : colle C2TE obligatoire",
+          "Zones humides (douches) : colle C2 + joint d'étanchéité",
+          "Sols chauffants : colle C2TE ou colle réaction",
+          "Double encollage obligatoire pour carreaux > 900 cm²"
+        ]
+      },
+      {
+        "article": "6.2",
+        "sujet": "Joints de carrelage",
+        "contenu": "Joints entre carreaux : mortier de jointoiement conforme NF EN 13888. Classe CG1 (joint standard), CG2 (joint amélioré), RG (joint résine époxy). Largeur minimale des joints selon format.",
+        "exigences": [
+          "Joint minimum : 2 mm pour carreaux ≤ 10x10 cm",
+          "Joint minimum : 3 mm pour carreaux ≤ 40x40 cm",
+          "Joint minimum : 5 mm pour grands formats > 60x60 cm",
+          "Zones humides (douches WC) : joints CG2 ou RG obligatoires",
+          "Pas de joint sec (jointage à sec interdit)"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Joints de fractionnement et de dilatation",
+        "contenu": "Joints de fractionnement obligatoires tous les 40-50 m² en intérieur, tous les 20-25 m² en extérieur. Joints de dilatation aux reprises de structure, changements de support, et en périmètre de pièce.",
+        "exigences": [
+          "Joint périphérique : 5 à 8 mm, rempli mastic souple",
+          "Fractionnement intérieur : tous les 40 m²",
+          "Fractionnement extérieur : tous les 20 m²",
+          "Joint dilatation : repris sur toute la hauteur finition",
+          "Mastic élastomère type F (façades) ou type G (intérieur)"
+        ]
+      },
+      {
+        "article": "8.1",
+        "sujet": "Pose de faïence murale",
+        "contenu": "Faïence sur supports sains, planéité ± 5 mm sous règle de 2 m. Colle minimum C1 (supports anciens : C2). Application peigne dentelé 6 mm pour carreaux < 30x30 cm, peigne 10 mm au-delà.",
+        "exigences": [
+          "Support : enduit plâtre sec (enduit hydrofuge en zone humide)",
+          "Colle : C1 minimum, C2 en zones humides",
+          "Espacement : 1,5 mm minimum",
+          "Taux de remplissage sous carreau ≥ 85%",
+          "Joint silicone aux angles et jonction faïence/sanitaire"
+        ]
+      }
+    ]
+  }
+]

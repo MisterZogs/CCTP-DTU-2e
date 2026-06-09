@@ -1,0 +1,102 @@
+[
+  {
+    "reference": "NF DTU 59.1",
+    "titre": "Travaux de bâtiment — Travaux de peinture des bâtiments — Cahier des clauses techniques",
+    "date_edition": "2012-01",
+    "derniere_mise_a_jour": "2021-06",
+    "lots_concernes": ["peinture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN ISO 1513", "NF EN ISO 2808", "NF T 30-064"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Préparation des supports — Murs et plafonds plâtre/enduit",
+        "contenu": "Supports plâtre/enduit : époussetage, dépoussiérage, rebouchage des fissures et trous avec enduit de rebouchage. Application d'une impression ou d'un primaire selon nature du support. Délai minimal entre enduit et peinture : 4 semaines (supports neufs).",
+        "exigences": [
+          "Support sec : humidité résiduelle ≤ 3%",
+          "Résistance cohésion support ≥ 0,5 MPa",
+          "Rebouchage : enduit plâtre ou glycérophtalique selon support",
+          "Impression sur support neuf absorbant obligatoire",
+          "Délai minimum avant peinture support neuf : 4 semaines"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Préparation des supports bois et dérivés",
+        "contenu": "Boiseries et menuiseries bois : dégrossir les aspérités, enduire les nœuds au preimbond, poncer. Application d'une couche de primaire d'accrochage ou d'impression.",
+        "exigences": [
+          "Ponçage grain 80 puis 120 avant impression",
+          "Nœuds : traitement à la gomme laque ou shellac avant peinture",
+          "Teneur en eau du bois ≤ 18% avant peinture",
+          "Primaire alkyde ou acrylique selon finition"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Peinture murs et plafonds — Types de finition",
+        "contenu": "Peintures acryliques en phase aqueuse (NF T 30-064). Catégories d'aspect selon brillance : mat (Gw < 10), velours (Gw 10-25), satiné (Gw 25-70), brillant (Gw > 70). Application en 2 couches minimum sur primaire.",
+        "exigences": [
+          "Locaux secs courants : peinture mate ou velours, 2 couches",
+          "Locaux humides (cuisine, sanitaires) : peinture lavable satin/brillant, 2 couches",
+          "Couloirs, circulations : peinture résistante aux chocs",
+          "Plafonds : peinture blanche mate ou velours, 2 couches"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Peinture sur support plâtre — Système applicatoire",
+        "contenu": "Système en 3 couches sur support neuf : impression + 2 couches de finition. Sur support ancien en bon état : 2 couches de finition après préparation. Dilution selon fiches techniques fabricant (10% maximum).",
+        "exigences": [
+          "Couche d'impression (fixateur) sur supports neufs",
+          "Reprise des joints de plaques avec enduit fin avant impression",
+          "Délai entre couches : 4h minimum (conditions standard 20°C, 50% HR)",
+          "Rendement indicatif : 10-12 m²/L par couche"
+        ]
+      },
+      {
+        "article": "5.3",
+        "sujet": "Peinture boiseries — Système applicatoire",
+        "contenu": "Boiseries intérieures : système 3 couches (primaire + sous-couche + finition). Finitions laque ou glycérophtalique pour portes et encadrements. Boiseries extérieures : peinture microporeuse, 3 couches.",
+        "exigences": [
+          "Portes et boiseries intérieures : laque satinée 2 couches minimum",
+          "Finition brillante sur portes : éponçage inter-couche obligatoire",
+          "Délai entre couches : 24h pour glycérophtalique",
+          "Protection chantier : housse ou masquage avant peinture plafond"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Nettoyage de fin de chantier",
+        "contenu": "L'entreprise assure la propreté de son chantier en permanence. En fin de travaux : enlèvement des protections, nettoyage des salissures de peinture sur vitrages, carrelage, appareils sanitaires. Remise en état des masquages.",
+        "exigences": [
+          "Nettoyage des coulures sur tous supports non peints",
+          "Enlèvement des papiers de protection",
+          "Nettoyage vitres maculées à la peinture",
+          "Pas de déchets de peinture dans les évacuations"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 59.2",
+    "titre": "Travaux de bâtiment — Revêtements plastiques épais sur béton et enduits à base de liants hydrauliques",
+    "date_edition": "2014-11",
+    "derniere_mise_a_jour": "2020-04",
+    "lots_concernes": ["peinture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN ISO 1062"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Revêtements plastiques épais (RPE) — Caractéristiques",
+        "contenu": "RPE : revêtements de finition décorative et de protection sur façades et murs extérieurs. Classes I (lisse), II (grain fin), III (grain moyen), IV (grain grossier). Application à la tyrolienne, à la taloche ou par projection.",
+        "exigences": [
+          "Support sain, sec, exempt de salissures",
+          "Application par temps chaud ou gel interdite (T < +5°C ou T > +35°C)",
+          "Primaire d'accrochage systématique sur supports anciens",
+          "Armature de renfort aux points de faiblesse (angles, jonctions)"
+        ]
+      }
+    ]
+  }
+]
