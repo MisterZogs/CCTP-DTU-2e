@@ -1,0 +1,154 @@
+[
+  {
+    "reference": "NF EN 752",
+    "titre": "Réseaux d'évacuation et d'assainissement à l'extérieur des bâtiments",
+    "date_edition": "2017-03",
+    "derniere_mise_a_jour": "2022-01",
+    "lots_concernes": ["vrd"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 476", "NF EN 1401", "NF EN 13476", "DTU 70.1"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Réseaux EU/EP — Matériaux et classes de rigidité",
+        "contenu": "Canalisations EU (eaux usées) et EP (eaux pluviales) : PVC-U NF EN 1401 (SN8 minimum en zone de circulation), PP double paroi NF EN 13476 (SN8 ou SN16 sous voirie), grès vitrifié NF EN 295 (applications industrielles ou corrosives). Profondeur minimale de couverture : 0,80 m en zone piétons, 1,00 m sous voirie.",
+        "exigences": [
+          "PVC SN8 minimum en zone piétonne, SN16 sous voirie et parkings",
+          "Profondeur couverture ≥ 0,80 m (piétons), ≥ 1,00 m (voirie légère)",
+          "Diamètre minimum EU : DN 100 (branchement particulier), DN 150 (collecteur)",
+          "Diamètre minimum EP : DN 160 (branchement), DN 200 (collecteur)",
+          "Pente minimale EU : 3 mm/m (0,3%), recommandée 5 mm/m"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Regards de visite et de branchement",
+        "contenu": "Regards de visite NF EN 476 : Ø 1000 mm minimum (H > 1 m), Ø 800 mm (H ≤ 1 m). Regards de branchement Ø 300 à Ø 500 mm. Tampon fonte classe B125 (piéton), C250 (parking voiture), D400 (voirie). Cunette avec fil d'eau dressé. Échelon en fonte galvanisée ou inox, espacement 300 mm.",
+        "exigences": [
+          "Regards visite Ø 1000 mm min si H > 1 m",
+          "Espacement maxi regards : 50 m (DN ≤ 300), 100 m (DN > 300)",
+          "Tampon B125 (piéton), C250 (parking), D400 (voirie publique)",
+          "Cunette profilée avec fil d'eau dressé, sans point bas",
+          "Regard de branchement obligatoire en domaine privé avant raccordement"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Séparation EU/EP — Réseau séparatif",
+        "contenu": "Réseau séparatif obligatoire en zone d'assainissement collectif moderne. EU dirigées vers station d'épuration, EP vers milieu naturel ou réseau pluvial. Déversoir d'orage en aval des séparateurs à hydrocarbures. Séparateur à hydrocarbures obligatoire pour parkings > 5 places ou aires de lavage.",
+        "exigences": [
+          "Réseau séparatif EU/EP obligatoire (zones assainissement collectif récents)",
+          "Séparateur à hydrocarbures obligatoire : parking > 5 places",
+          "Séparateur classe I (< 5 mg/l hydrocarbures) pour rejet en milieu naturel",
+          "Débourbeur/dégraisseur avant séparateur hydrocarbures",
+          "Bac à graisse obligatoire pour cuisines professionnelles avant EU"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Assainissement individuel — Fosse septique et filière",
+        "contenu": "Zone non raccordée : assainissement non collectif (ANC) soumis à déclaration SPANC. Fosse toutes eaux volume ≥ 3 m³ (≤ 5 pièces), + 1 m³ par pièce supplémentaire. Filières agréées : épandage souterrain (perméabilité sol 15-500 mm/h), filtre à sable vertical, filtre compact agréé. Distance minimale fosse/puits : 35 m.",
+        "exigences": [
+          "Déclaration SPANC obligatoire avant travaux ANC",
+          "Volume fosse toutes eaux : 3 m³ pour ≤ 5 pièces, +1 m³/pièce supp.",
+          "Filière épandage : perméabilité sol 15-500 mm/h (test de perméabilité)",
+          "Distance fosse/habitation : ≥ 5 m, distance fosse/puits potable : ≥ 35 m",
+          "Contrôle SPANC à réception + tous les 10 ans maximum"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF P 98-331",
+    "titre": "Tranchées — Ouverture, remblayage, réfection",
+    "date_edition": "2005-10",
+    "derniere_mise_a_jour": "2021-06",
+    "lots_concernes": ["vrd"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1610", "NF P 98-050"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Pose en tranchée — Lit de pose et compactage",
+        "contenu": "Lit de pose en sable ou grave 0/10 mm : 10 cm minimum sous génératrice inférieure du tuyau. Enrobage : sable ou grave propre jusqu'à 30 cm au-dessus du sommet du tuyau. Compactage par couches de 20 cm. Grillage avertisseur à 30 cm au-dessus de la canalisation (rouge EU, vert EP, bleu AEP, jaune gaz).",
+        "exigences": [
+          "Lit de pose sable ou grave 0/10 mm, épaisseur ≥ 100 mm",
+          "Enrobage sable propre jusqu'à 30 cm au-dessus génératrice supérieure",
+          "Grillage avertisseur à 30 cm au-dessus : rouge EU, vert EP, bleu AEP",
+          "Compactage couches 20 cm, Proctor ≥ 95% sous voirie",
+          "Remblai final avec matériaux sélectionnés (pas de déblais argileux ou pierreux)"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Voirie — Structures de chaussée",
+        "contenu": "Structure chaussée légère (accès piétons, stationnement) : grave non traitée GNT 0/31,5 ep. 20 cm + BBDr ou enrobé 0/10 ep. 6 cm. Voirie résidentielle : GNT 0/31,5 ep. 25 cm + GB3 ep. 10 cm + BBSG 0/10 ep. 6 cm. Portance sol : CBR ≥ 5 (fondation), sinon géotextile de séparation ou traitement à la chaux.",
+        "exigences": [
+          "CBR sol support ≥ 5 avant mise en œuvre (si < 5 : traitement sol ou géotextile)",
+          "Stationnement léger : GNT 20 cm + enrobé 6 cm",
+          "Voirie résidentielle : GNT 25 cm + GB 10 cm + BBSG 6 cm",
+          "Géotextile de séparation 200 g/m² entre sol support et GNT",
+          "Bordures béton : type T2 (trottoir), type P1 (stationnement), type C1 (voirie)"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Clôtures et portails — Prescriptions",
+        "contenu": "Clôtures : fondation continue béton armé (HA8 ferraillage) ou poteaux isolés en béton. Poteaux métalliques : galvanisation Z275 minimum ou inox. Hauteur maximale sans étude vent : 2,0 m (zone 1-2), 1,80 m (zone 3-4). Portails coulissants > 60 kg : motorisation obligatoire avec sécurité anti-écrasement CE.",
+        "exigences": [
+          "Poteaux galvanisés Z275 minimum ou inox A2",
+          "Fondation poteaux : profondeur ≥ 0,80 m en zone hors gel, ≥ 1,00 m en zone gel",
+          "Motorisation portail > 60 kg : norme EN 12453 anti-écrasement",
+          "Interphone/visiophone : câblage RJ45 catégorie 5e minimum",
+          "Boîtier aux lettres NF si résidence principale"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF EN 1433",
+    "titre": "Caniveaux de drainage pour zones de circulation destinées aux véhicules et piétons",
+    "date_edition": "2002-06",
+    "derniere_mise_a_jour": "2020-01",
+    "lots_concernes": ["vrd"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 124", "NF P 16-345"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Caniveaux et avaloirs — Dimensionnement et classe de charge",
+        "contenu": "Classes de charge selon NF EN 1433 : A15 (piétons), B125 (voitures), C250 (parkings et voies lentes), D400 (voirie). Caniveaux linéaires polymère béton ou béton fibré : largeur 100 à 300 mm selon débit. Avaloirs de voirie : Ø minimum 315 mm avec décanteur. Pentes vers avaloirs : ≥ 0,5% sol imperméable.",
+        "exigences": [
+          "Zones piétons : caniveau classe A15 minimum",
+          "Parking voiture : classe C250 minimum",
+          "Voirie circulée : classe D400",
+          "Avaloirs avec décanteur 200 L minimum pour parking > 20 places",
+          "Pente sol vers avaloirs : ≥ 0,5% (1% recommandé)"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 70.1",
+    "titre": "Implantation des réseaux de distribution d'eau et d'assainissement",
+    "date_edition": "1987-12",
+    "derniere_mise_a_jour": "2018-06",
+    "lots_concernes": ["vrd"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 752", "NF EN 805"],
+    "points_cles": [
+      {
+        "article": "3.1",
+        "sujet": "Distances réglementaires entre réseaux",
+        "contenu": "Distances minimales entre canalisations dans les tranchées : AEP/EU : 0,50 m horizontal, 0,30 m vertical. AEP/Gaz : 0,50 m horizontal. Électricité HTA/BT : 0,20 m (gaine + séparation). Télécommunications/HTA : 0,20 m. Croisement : passage sous l'AEP si croisement EU/AEP (protection tube PE renforcé).",
+        "exigences": [
+          "AEP et EU : ≥ 0,50 m horizontal ou 0,30 m vertical",
+          "AEP et Gaz : ≥ 0,50 m horizontal",
+          "Croisement AEP/EU : AEP en position haute, gaine de protection 1 m de part et d'autre",
+          "Fourreaux électrique BT : rouges, sable, grillage rouge à 30 cm",
+          "Fourreaux télécom : vert, sable, grillage vert à 30 cm"
+        ]
+      }
+    ]
+  }
+]
