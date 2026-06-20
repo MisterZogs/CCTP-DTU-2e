@@ -69,7 +69,7 @@ def index_knowledge_base(force: bool = False) -> int:
 
         for dtu in dtu_list:
             for i, point in enumerate(dtu.get("points_cles", [])):
-                doc_id = f"{dtu['reference'].replace(' ', '_')}_{i}"
+                doc_id = f"{json_file.stem}__{dtu['reference'].replace(' ', '_')}_{i}"
                 content = (
                     f"DTU: {dtu['reference']} — {dtu['titre']}\n"
                     f"Édition: {dtu.get('date_edition', '')} | Statut: {dtu.get('statut', '')}\n"
