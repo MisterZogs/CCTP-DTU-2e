@@ -1,0 +1,108 @@
+[
+  {
+    "reference": "NF DTU 55.2",
+    "titre": "Vêtures et vêtages rapportés en façade — Travaux de bâtiment",
+    "date_edition": "2014-12",
+    "derniere_mise_a_jour": "2022-03",
+    "lots_concernes": ["isolation"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 13162", "NF EN 13163", "NF EN 13164", "NF EN 13165"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "ITE par système collé-chevillé (ETICS) — Exigences générales",
+        "contenu": "Systèmes ETICS (External Thermal Insulation Composite System) soumis à Avis Technique CSTB ou Document Technique d'Application (DTA). Isolant : PSE graphité (λ ≤ 0,031 W/m.K) ou laine de roche (λ ≤ 0,036 W/m.K). Épaisseur minimale RE2020 : 120 mm PSE ou 100 mm laine de roche selon zone climatique.",
+        "exigences": [
+          "Avis Technique CSTB ou DTA obligatoire pour chaque système",
+          "Isolant PSE : λ ≤ 0,031 W/m.K, classe Euroclass E minimum",
+          "Isolant LDR : λ ≤ 0,036 W/m.K, classement A1 ou A2 (ininflammable)",
+          "Chevillage : ≥ 6 chevilles/m² (angle et rive : ≥ 8/m²)",
+          "Armature de sous-enduit : treillis fibre de verre ≥ 160 g/m²"
+        ]
+      },
+      {
+        "article": "4.2",
+        "sujet": "Pose de l'isolant ETICS — Collage et chevillage",
+        "contenu": "Collage à la taloche ou au peigne (minimum 40% de surface couverte) ou points-cordons (≥ 10 points/m²). Chevillage après durcissement de la colle (≥ 24h). Joints entre panneaux : ≤ 2 mm, pas de coïncidence des joints verticaux. Retours en tableau : isolant découpé à l'angle vif.",
+        "exigences": [
+          "Surface encollée ≥ 40% de la face de l'isolant",
+          "Délai avant chevillage : ≥ 24h après pose colle",
+          "Joints entre panneaux ≤ 2 mm, comblés avec bandes isolantes (pas de mousse PU)",
+          "Retours en tableaux ≥ 20 mm d'isolant",
+          "Pas de joint filant vertical sur plus de 2 rangs"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Isolation thermique par l'intérieur (ITI) — Doublages",
+        "contenu": "Doublages sur ossature métallique (NF DTU 25.41) ou collés contre le mur (complexe PSE + PF). Résistance thermique minimale selon RE2020 par zone : H1 : R ≥ 4,0 m².K/W ; H2 : R ≥ 3,7 m².K/W ; H3 : R ≥ 2,9 m².K/W. Pare-vapeur côté chaud (intérieur) : Sd ≥ 18 m si μiso < 30.",
+        "exigences": [
+          "Résistance thermique ITI : R ≥ 4,0 m².K/W en zone H1",
+          "Résistance thermique ITI : R ≥ 3,7 m².K/W en zone H2",
+          "Pare-vapeur Sd ≥ 18 m (zone H1, H2) ou Sd ≥ 6 m (zone H3)",
+          "Continuité du pare-vapeur : recouvrements ≥ 100 mm, agrafés et adhésivés",
+          "Ponts thermiques de liaison (sol/mur, plancher/mur) traités par rupteur"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Isolation des combles perdus et rampants",
+        "contenu": "Combles perdus : soufflage laine minérale ou laine cellulose en vrac. Épaisseur minimale RE2020 : R ≥ 7,0 m².K/W (λ 0,040 → 280 mm). Combles aménagés rampant : isolation entre et sous chevrons, prenant en compte lame d'air ventilée ≥ 20 mm. Frein vapeur Sd ≥ 18 m côté intérieur.",
+        "exigences": [
+          "Combles perdus : R ≥ 7,0 m².K/W (≥ 280 mm LM 040)",
+          "Lame d'air ventilée rampants : ≥ 20 mm entre isolant et sous-toiture",
+          "Frein vapeur rampants : Sd ≥ 18 m, recouvrements agrafés + adhésif",
+          "Trappe d'accès combles perdus isolée et étanche à l'air",
+          "Bande de rive périphérique pour éviter le déversement de l'isolant en vrac"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Isolation des planchers bas sur vide sanitaire ou terre-plein",
+        "contenu": "Plancher bas sur VS : isolation sous plancher par panneaux PSE ou PIR fixés mécaniquement. R ≥ 3,0 m².K/W. Vide sanitaire ventilé : pas de pare-vapeur côté VS. Terre-plein : isolation périphérique ou sous dalle. Rupture de pont thermique : rupteur de seuil en nez de dalle.",
+        "exigences": [
+          "R plancher bas ≥ 3,0 m².K/W (RE2020)",
+          "PSE sol : densité ≥ 20 kg/m³, Rc ≥ 100 kPa",
+          "Pas de pare-vapeur côté vide sanitaire ventilé",
+          "Rupteur de pont thermique en nez de dalle sur VS",
+          "Terre-plein : polystyrène expansé sous dalle, ep. ≥ 80 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "RE2020",
+    "titre": "Réglementation Environnementale 2020 — Exigences thermiques et carbone pour les bâtiments neufs",
+    "date_edition": "2021-10",
+    "derniere_mise_a_jour": "2022-01",
+    "lots_concernes": ["isolation", "chauffage_cvc"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN ISO 6946", "NF EN 12831", "RT2012"],
+    "points_cles": [
+      {
+        "article": "Art. 3",
+        "sujet": "Indicateurs RE2020 — Bbio, Cep, Ic",
+        "contenu": "Trois indicateurs principaux : Bbio (besoin bioclimatique, sans énergie) ≤ Bbiomax ; Cep (consommation énergie primaire) ≤ Cepmax et Cep_nr ≤ Cep_nrmax ; Ic_construction (impact carbone de la construction) ≤ Icmax. Bbiomax fonction du type de bâtiment et zone climatique. Cepmax : logement neuf individuel 110 kWh/m².an EP.",
+        "exigences": [
+          "Bbio ≤ Bbiomax (défini par type bâtiment et zone climatique)",
+          "Cep ≤ Cepmax (logement individuel neuf : 110 kWh/m².an EP)",
+          "Cep_nr ≤ 4 kWh/m².an (limitation énergie non renouvelable)",
+          "Ic_construction : seuil progressivement abaissé 2022→2028",
+          "DPE classe A ou B obligatoire pour les logements neufs"
+        ]
+      },
+      {
+        "article": "Art. 7",
+        "sujet": "Confort d'été — Indicateur DH (Degrés-Heures)",
+        "contenu": "Indicateur DH (inconfort estival) obligatoire. Seuil de confort : 26°C jour / 28°C nuit. DH = somme horaire des degrés au-dessus du seuil. Limite : 1250 DH/an pour logement individuel. Mitigation : inerties, protections solaires, ventilation nocturne.",
+        "exigences": [
+          "DH ≤ 1250 DH pour logements (individuel et collectif)",
+          "Protections solaires obligatoires sur vitrages exposés sud, est, ouest",
+          "Facteur solaire Sw ≤ 0,15 pour vitrages orientés sud (zone H3)",
+          "Inertie thermique : dalles béton ou doublage plâtre lourds recommandés",
+          "Brasseurs d'air acceptés en compensation partielle de climatisation"
+        ]
+      }
+    ]
+  }
+]
