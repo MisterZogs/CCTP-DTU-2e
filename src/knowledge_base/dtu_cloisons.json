@@ -1,0 +1,108 @@
+[
+  {
+    "reference": "NF DTU 25.41",
+    "titre": "Ouvrages en plaques de plâtre — Cloisons et doublages sur ossature métallique",
+    "date_edition": "2012-11",
+    "derniere_mise_a_jour": "2023-01",
+    "lots_concernes": ["cloisons"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 520", "NF EN 14195", "NF EN 13950"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Plaques de plâtre — Types et usage",
+        "contenu": "Types selon NF EN 520 : BA13 (standard, usage courant), BA13H (hydrofugé, locaux humides EB+), BA15 (acoustique renforcé), BA18 (résistance mécanique). Plaques de type F (résistance au feu) pour parois coupe-feu. En locaux humides EB+ : plaques H minimum, finition carrelage ou peinture microporeuse.",
+        "exigences": [
+          "Locaux secs : BA13 standard minimum",
+          "Locaux humides (SDB, cuisine) : BA13H obligatoire",
+          "Parois EI30 : 1 × BA13 + laine minérale 45 mm (selon PV CSTB)",
+          "Parois EI60 : 2 × BA13 ou 1 × BA18 (selon PV CSTB)",
+          "Plaques conformes NF EN 520, marquage CE obligatoire"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Ossature métallique — Montants et rails",
+        "contenu": "Rails au sol et en tête : R48, R70, R90 ou R100 selon épaisseur cloison. Montants : M48, M70, M90, M100. Entraxe montants : 400 mm ou 600 mm selon épaisseur plaques et hauteur. Fixations rail/structure : chevilles Ø6 tous les ≤ 600 mm. Bande résiliente sous rail pour découplage acoustique.",
+        "exigences": [
+          "Bande résiliente 3 mm sous rails sol et tête (isolation acoustique)",
+          "Entraxe montants : 400 mm si plaques ≤ BA13 et H > 3,50 m",
+          "Entraxe montants : 600 mm pour H ≤ 3,50 m en zone courante",
+          "Montants doubles de part et d'autre des portes",
+          "Rails en acier galvanisé Z275, épaisseur ≥ 0,6 mm"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Hauteur limite des cloisons et contreventement",
+        "contenu": "Hauteur limite selon montant / épaisseur / entraxe (tableau DTU 25.41). Exemple : M48 entraxe 600 mm → H max 3,20 m. M70 entraxe 400 mm → H max 4,50 m. Au-delà des hauteurs limites : montants renforcés (profilé M48+U, ou béquilles). Lisses de rigidification horizontales à mi-hauteur si dépassement.",
+        "exigences": [
+          "H max M48/600 : 3,20 m (2×BA13)",
+          "H max M70/400 : 4,50 m (2×BA13)",
+          "Lisses de rigidification si H > limite : profil U intégré dans montant",
+          "Contreventement des longueurs > 6 m par retours ou raidisseurs",
+          "Renfort encadrement porte : montants doublés, traverse renforcée"
+        ]
+      },
+      {
+        "article": "8.1",
+        "sujet": "Acoustique des cloisons — Indices d'affaiblissement",
+        "contenu": "Exigences minimales réglementaires (arrêté 30 juin 1999) : Rw+C ≥ 53 dB entre logements, ≥ 40 dB chambre/séjour même logement, ≥ 35 dB cage d'escalier/pièce. Performances types cloisons : M70 + LM 45 mm + 2×BA13 = Rw ≈ 51 dB. Double ossature M48 + LM 45 mm + 2×BA13 chaque face = Rw ≈ 60 dB.",
+        "exigences": [
+          "Cloisons séparatives logements : Rw+C ≥ 53 dB",
+          "Cloisons intérieures chambre/séjour : Rw+C ≥ 40 dB",
+          "Cage escalier/pièce : Rw+C ≥ 35 dB",
+          "Laine minérale dans l'âme de la cloison obligatoire pour Rw > 45 dB",
+          "Joints périphériques mastiqués à l'acrylique (rupteur acoustic)"
+        ]
+      },
+      {
+        "article": "9.1",
+        "sujet": "Joints et finitions — Bandes à enduire",
+        "contenu": "Joints entre plaques : bande armée polyester + enduit plâtre (joints à la bande) ou bande papier + enduit. Taux de remplissage vis ≥ 95%. Finitions : enduit de lissage Q3 (standard), Q4 (haut de gamme, zones grazing light). Ragréage des têtes de vis obligatoire.",
+        "exigences": [
+          "Bande à joint armée polyester sur joints bout-à-bout",
+          "Bande papier encollée sur joints longitudinaux",
+          "Q3 minimum pour peinture en zone courante",
+          "Q4 obligatoire sous lumière rasante ou peinture mate satinée",
+          "Délai avant peinture : ≥ 3 jours (hygrométrie < 70%)"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 58.1",
+    "titre": "Plafonds suspendus — Prescriptions communes aux différents types de plafonds",
+    "date_edition": "2008-07",
+    "derniere_mise_a_jour": "2021-06",
+    "lots_concernes": ["cloisons"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 13964", "NF EN 14246"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Faux-plafonds en plaques de plâtre BA13 — Ossature",
+        "contenu": "Ossature primaire : suspentes Ω (nonius) sur tige filetée M6 scellée ou chevillée dans plancher. Espacement suspentes : 900 mm entraxe (portée ≤ 1,20 m) ou 600 mm (portée ≤ 0,90 m). Ossature secondaire : fourrure 47×17 mm. Entraxe fourrures : 400 mm (BA13) ou 600 mm (BA13 double). Flèche admissible : L/500.",
+        "exigences": [
+          "Suspentes Ω sur tige M6, espacement ≤ 900 mm en portée et ≤ 1200 mm transversal",
+          "Fourrures 47×17 entraxe 400 mm pour BA13, 600 mm pour 2×BA13",
+          "Flèche admissible : L/500 (max 12 mm pour portée 6 m)",
+          "Bandes résilientes entre fourrures et plaques si isolation acoustique requise",
+          "Recoupement coupe-feu tous les 25 m² pour PTFA (plafond technique faux-plafond actif)"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Faux-plafonds à dalles minérales sur ossature T — Acoustique",
+        "contenu": "Ossature T inversé apparent (T24 ou T15). Dalles minérales 600×600 ou 1200×600 mm. Classement acoustique selon NF EN ISO 11654 : αw de 0,20 (mauvais) à 1,00 (excellent). Dalles A2 (ininflammables) recommandées en ERP et zones techniques. Réaction au feu : A2-s1,d0 minimum en ERP.",
+        "exigences": [
+          "Dalles 600×600 ou 1200×600, masse surfacique ≥ 2,5 kg/m²",
+          "αw ≥ 0,80 en open space ou salle de réunion (confort acoustique)",
+          "Classe de réaction au feu A2-s1,d0 minimum en ERP",
+          "Ossature T24 galvanisé Z275 minimum",
+          "Dalles démontables : accessibilité aux réseaux plénums"
+        ]
+      }
+    ]
+  }
+]
