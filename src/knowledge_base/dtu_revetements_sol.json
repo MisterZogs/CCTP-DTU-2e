@@ -1,0 +1,131 @@
+[
+  {
+    "reference": "NF DTU 51.1",
+    "titre": "Parquet massif — Pose clouée",
+    "date_edition": "2015-10",
+    "derniere_mise_a_jour": "2022-07",
+    "lots_concernes": ["revetements_sol"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 13226", "NF EN 13227", "NF B 52-001"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Parquet massif — Essences et qualité",
+        "contenu": "Essences dures recommandées : chêne (Quercus robur/petraea), hêtre, frêne, châtaignier, noyer. Essences exotiques avec certification FSC ou PEFC obligatoire. Classe d'usage : U3 (usage résidentiel intensif) minimum. Teneur en eau à la livraison : 8% ± 2%. Largeur maximale lattes : 90 mm (risque gauchissement).",
+        "exigences": [
+          "Teneur en eau livraison : 8% ± 2% (hygroréguler avant pose 48h)",
+          "Classe d'usage U3 minimum (résidentiel intensif)",
+          "Bois exotiques : certification FSC ou PEFC obligatoire",
+          "Largeur latte ≤ 90 mm (cloué), ≤ 130 mm (collé massif)",
+          "Humidité relative ambiante pose : 45-65% HR"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Pose sur lambourdes — Support et fixation",
+        "contenu": "Lambourdes section minimale 40×60 mm, entraxe 35-40 cm selon épaisseur parquet. Cales résilientes sous lambourdes pour découplage acoustique. Maçonnerie : lambourdes sur chapes humides autorisées si HR < 5% (humidimètre CM). Parquet cloué sur lambourdes : clous annelés ou agrafes Ø2,5 mm, inclinés 45°.",
+        "exigences": [
+          "Lambourdes 40×60 mm, entraxe ≤ 40 cm (parquet 22 mm)",
+          "Cales résilientes sous lambourdes : réduction Lw ≥ 5 dB",
+          "HR support ≤ 5% (CM) avant pose lambourdes",
+          "Clous annelés inox Ø2,5 mm, longueur ≥ 2,5× épaisseur latte",
+          "Jeu de dilatation périphérique : 8-10 mm"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Pose collée directe — Parquet contrecollé et massif",
+        "contenu": "Chape support : planéité ≤ 3 mm sous règle de 2 m, résistance traction ≥ 1,0 MPa, humidité ≤ 3% CM (ou 5% capteur). Colle parquet à base solvantée ou MS-polymère (recommandée, sans solvant). Consommation colle : 800-1200 g/m². Primaire d'accrochage sur supports absorbants.",
+        "exigences": [
+          "Planéité support ≤ 3 mm sous règle 2 m (ragréagé si > 3 mm)",
+          "HR support ≤ 3% CM pour parquet massif, ≤ 4% pour contrecollé",
+          "Résistance traction support ≥ 1,0 MPa (essai pastille)",
+          "Colle MS-polymère ou PU bicomposant recommandée",
+          "Jeu périphérique : 10 mm/5 m de longueur (dilatation)"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 52.1",
+    "titre": "Pose collée des revêtements de sol résilients — Dalles et lés",
+    "date_edition": "2004-12",
+    "derniere_mise_a_jour": "2021-03",
+    "lots_concernes": ["revetements_sol"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 649", "NF EN 651", "NF EN 548", "NF EN 13845"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Revêtements résilients — Classification et usage",
+        "contenu": "Classification selon NF EN ISO 10874 : usage résidentiel (classe 21-23), commercial (31-34), industriel (41-43). Classe 33 minimum pour ERP à forte circulation. PVC (NF EN 649), linoléum (NF EN 548), caoutchouc (NF EN 12199). Homologation UPEC : U (usure), P (poinçonnement), E (eau), C (chimique).",
+        "exigences": [
+          "Locaux résidentiels : classe 22 minimum (23 pour zones très fréquentées)",
+          "ERP zones de circulation : classe 33 ou 34 minimum",
+          "Homologation UPEC adaptée à l'usage (fiche technique fabricant)",
+          "Classement DIN 51130 antidérapance : R10 minimum (zones humides)",
+          "R11 cuisines professionnelles, R12 salles de sport"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Préparation du support — Ragréage et planéité",
+        "contenu": "Support chape ou dalle béton : planéité ≤ 3 mm sous règle 2 m. Ragréage autolissant classe CT-C20-F6 (NF EN 13813). Humidité résiduelle : ≤ 3% CM pour PVC et linoléum, ≤ 4% pour dalles caoutchouc. Primaire d'accrochage sur supports légers ou poreux. Température d'exécution : 10°C à 25°C.",
+        "exigences": [
+          "Planéité ≤ 3 mm/2 m (voire 2 mm pour PVC haut de gamme)",
+          "HR support ≤ 3% CM (PVC, linoléum), ≤ 4% (caoutchouc)",
+          "Ragréage CT-C20-F6 si dénivellation > 3 mm",
+          "Primaire acrylique sur surfaces absorbantes ou anciennes",
+          "Température support et ambiance : 10°C à 25°C"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Collage — Adhésifs et temps d'attente",
+        "contenu": "Adhésifs en accord avec le fabricant du revêtement (fiche de prescription). Colle acrylique en phase aqueuse : temps d'ouverture 20-40 min. Colle solvanté : mise en contact à cœur (≈ 15 min). Colle PU ou époxy bicomposant pour locaux soumis à lavage intensif. Application à la raclette crantée (V notch B1 standard).",
+        "exigences": [
+          "Adhésif prescrit par le fabricant du revêtement",
+          "Colle acrylique aqueuse pour zones sèches : temps d'attente 20-40 min",
+          "PU bicomposant pour zones lavage intensif ou thermique (plancher chauffant)",
+          "Raclette crantée B1 standard ou selon prescription",
+          "Lés : soudure à chaud obligatoire en locaux humides (douches, cuisines)"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Revêtements sur plancher chauffant — Compatibilité",
+        "contenu": "Plancher chauffant hydraulique ou électrique : température de surface maximale 28°C. Revêtements compatibles PC : PVC homogène ou hétérogène marqué 'floor heating', linoléum agréé, dalle moquette touffetée (non bouclée). Parquet contrecollé : épaisseur ≤ 14 mm, R total < 0,15 m².K/W. Mise en chauffe progressive avant pose.",
+        "exigences": [
+          "Température surface plancher chauffant ≤ 28°C",
+          "PVC PC : marquage 'floor heating' ou DIN 4725 partie 4 obligatoire",
+          "R thermique revêtement ≤ 0,10 m².K/W (PVC, linoléum)",
+          "Mise en chauffe progressive : 7 jours avant pose + 7 jours après pose",
+          "Arrêt chauffage 48h avant pose, reprise progressive après"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 53.2",
+    "titre": "Revêtements de sol textiles — Pose collée",
+    "date_edition": "2009-11",
+    "derniere_mise_a_jour": "2020-04",
+    "lots_concernes": ["revetements_sol"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 1307", "NF EN 13893"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Moquettes et tapis — Classification et résistance au glissement",
+        "contenu": "Classification NF EN 1307 : usage résidentiel LC1 (chambre), LC2 (séjour), LC3 (couloir). Usage commercial : LC4 (bureaux), LC5 (zones très fréquentées). Résistance au glissement en locaux humides : moquettes non recommandées. Décharges électrostatiques : < 2 kV pour locaux informatiques (anti-statique).",
+        "exigences": [
+          "Zones résidentielles courantes : LC2 minimum",
+          "Couloirs, escaliers : LC3 minimum",
+          "Bureaux, espaces collectifs : LC4 minimum",
+          "Moquette anti-statique < 2 kV pour locaux informatiques",
+          "Pas de moquette en locaux humides (SDB, douches)"
+        ]
+      }
+    ]
+  }
+]
