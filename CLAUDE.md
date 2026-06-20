@@ -224,15 +224,35 @@ LOT_TO_DTU = {
 
 ---
 
+## État d'implémentation (juin 2026)
+
+### Backend — ✅ Complet
+- FastAPI + SQLite (aucun serveur externe requis, DB auto-créée au démarrage)
+- ChromaDB RAG sur `src/knowledge_base/` (9 lots indexés)
+- LLM : Claude Sonnet ou Mistral Large (configurable via `.env`)
+- Export Word : `markdown_to_docx` via python-docx
+- CRUD complet : projets + CCTP (create, read, update, delete)
+
+### Frontend — ✅ Complet
+- Form : nom projet, type, usage, zone climatique/sismique, PMR, spécificités
+- Sélection des 14 lots avec checkboxes
+- Génération séquentielle avec progress par lot
+- Résultat : cards collapsibles, édition inline (PUT /api/v1/cctp/{id}), export .docx par lot ou tout
+- Auth Wasp : `authRequired: true` sur la route `/cctp`
+
+### Knowledge base DTU (src/knowledge_base/)
+9 lots couverts : gros_oeuvre, charpente, menuiseries_ext, menuiseries_bois, cvc, electricite, carrelage, peinture, platrerie.
+Les 5 lots restants (couverture, isolation, cloisons, revêtements sol, VRD) génèrent sans RAG — résultat correct mais moins précis.
+
 ## Fonctionnalités MVP (v1)
 
-- [ ] Création de projet (type, usage, zone climatique, zone sismique, PMR)
-- [ ] Sélection des lots à traiter
-- [ ] Génération CCTP par lot via LLM + RAG sur base DTU
-- [ ] Affichage et édition inline du CCTP généré
-- [ ] Export Word (.docx) par lot ou pack complet
-- [ ] Historique des CCTP par projet
-- [ ] Base initiale : 5 lots principaux (GO, charpente, menuiseries ext, élec, CVC)
+- [x] Création de projet (type, usage, zone climatique, zone sismique, PMR)
+- [x] Sélection des lots à traiter (14 lots)
+- [x] Génération CCTP par lot via LLM + RAG sur base DTU
+- [x] Affichage et édition inline du CCTP généré (textarea + PUT endpoint)
+- [x] Export Word (.docx) par lot ou pack complet
+- [ ] Historique des CCTP par projet (le backend persiste en DB mais pas d'UI de liste)
+- [x] Base initiale : 9 lots avec DTU (5 restants sans RAG)
 
 ## Fonctionnalités v2
 
