@@ -1,0 +1,191 @@
+[
+  {
+    "reference": "NF DTU 40.1",
+    "titre": "Couvertures en ardoises",
+    "date_edition": "2012-02",
+    "derniere_mise_a_jour": "2022-07",
+    "lots_concernes": ["couverture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 492", "NF EN 12326"],
+    "remplace": "DTU 40.1 édition 1993",
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Ardoises naturelles — Qualité et provenance",
+        "contenu": "Les ardoises naturelles doivent être conformes à NF EN 12326-1. Origine : Anjou (Trélazé) ou Espagne (Galice), classe T1 ou T2 pour les zones exposées. Épaisseur minimale 4 mm. Absorption d'eau < 0,6% (classe W1). Résistance à la flexion ≥ 55 MPa.",
+        "exigences": [
+          "Ardoises NF EN 12326-1 classe T1 minimum",
+          "Épaisseur minimale 4 mm, recommandée 5-6 mm en zones exposées",
+          "Absorption eau < 0,6% (essai EN 12326)",
+          "Certificat d'origine et fiche technique fabricant obligatoire",
+          "Stockage à plat, à l'abri des chocs et de l'humidité sur chantier"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Ardoises fibro-ciment — Prescriptions",
+        "contenu": "Ardoises fibro-ciment conformes à NF EN 492. Classe de durabilité ≥ 4. Coloris homogène en masse. Résistance au choc de la grêle classe HW. Fixation par crochets inox A2 minimum ou clous inox.",
+        "exigences": [
+          "Conformité NF EN 492 obligatoire",
+          "Crochets inox A2 minimum, acier galvanisé interdit",
+          "Recouvrement minimal 100 mm pour pentes ≥ 20°",
+          "Contre-liteaux de ventilation 27×27 mm minimum"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Pente minimale et recouvrement",
+        "contenu": "Pente minimale 20° (environ 36%). En zones très exposées au vent (ZTV) : pente minimale 25°. Recouvrement entre rangs : 100 mm minimum (pente ≥ 25°), 120 mm (pente 20°-25°). Pureau calculé selon formule : P = (longueur ardoise − recouvrement) / 2.",
+        "exigences": [
+          "Pente minimale 20° (36%) en zone normale",
+          "Pente minimale 25° (47%) en zone très exposée",
+          "Recouvrement ≥ 100 mm (pente > 25°)",
+          "Recouvrement ≥ 120 mm (pente 20° à 25°)"
+        ]
+      },
+      {
+        "article": "7.1",
+        "sujet": "Ventilation et sous-toiture",
+        "contenu": "Lame d'air ventilée obligatoire entre isolation et couverture. Entrée d'air en rive basse : section libre ≥ 1/500 de la surface projetée. Sortie d'air en faîtage : section équivalente. Contre-liteaux assurant la ventilation de 27 mm minimum.",
+        "exigences": [
+          "Lame d'air ≥ 30 mm entre isolation et volige/sous-toiture",
+          "Entrée d'air rive basse : ≥ 1/500 surface projetée",
+          "Sortie d'air faîtage continu ou discontinu de section équivalente",
+          "Sous-toiture HPV (haute perméabilité à la vapeur) si isolation en contact"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 40.35",
+    "titre": "Couvertures par éléments en tuiles en béton à glissement et à emboîtement à relief",
+    "date_edition": "2018-03",
+    "derniere_mise_a_jour": "2023-04",
+    "lots_concernes": ["couverture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 490", "NF EN 491"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Tuiles béton — Caractéristiques",
+        "contenu": "Tuiles en béton conformes à NF EN 490 et NF EN 491. Essai d'imperméabilité : aucune goutte en face inférieure après 24h. Résistance au gel : 150 cycles sans dégradation visible. Charge de rupture à la flexion ≥ 1000 N pour tuile standard.",
+        "exigences": [
+          "Conformité NF EN 490 et NF EN 491",
+          "Essai imperméabilité : zéro goutte/24h",
+          "150 cycles gel/dégel sans fissure",
+          "Fixation par agrafes ou liens fil inox zones exposées ou pente > 60%"
+        ]
+      },
+      {
+        "article": "5.2",
+        "sujet": "Pente minimale et fixation",
+        "contenu": "Pente minimale 20% (11°) pour tuiles à emboîtement. Fixation obligatoire des tuiles de rive, faîtières, arêtiers et 1er rang. En zones IV et V (vent violent) et pentes > 60% : fixation de toutes les tuiles. Liteaux section minimale 22×25 mm.",
+        "exigences": [
+          "Pente minimale : 20% (11°)",
+          "Fixation systématique : rive, faîtage, égout, 1er rang",
+          "Fixation complète si pente > 60% ou zone vent IV/V",
+          "Liteaux 22×25 mm min, imprégnés classe 3 minimum"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Faîtage et noue",
+        "contenu": "Faîtières scellées au mortier bâtard (chaux + ciment) ou posées à sec avec joints silicone extrudé. Noues obligatoirement en zinc développé ≥ 500 mm ou en tuile noue. Bavettes d'about zinc développé ≥ 250 mm.",
+        "exigences": [
+          "Mortier faîtage : chaux hydraulique NHL 3,5 + sable 0/4",
+          "Noue zinc développement ≥ 500 mm total (250 mm chaque versant)",
+          "Bavette about zinc ≥ 250 mm",
+          "Recouvrements faîtières ≥ 80 mm"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 43.1",
+    "titre": "Étanchéité des toitures-terrasses et toitures inclinées avec éléments porteurs en maçonnerie",
+    "date_edition": "2004-11",
+    "derniere_mise_a_jour": "2015-09",
+    "lots_concernes": ["couverture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF P84-317", "NF EN 13956", "NF EN 13707"],
+    "points_cles": [
+      {
+        "article": "5.1",
+        "sujet": "Classement des toitures-terrasses inaccessibles",
+        "contenu": "Terrasses inaccessibles : protection lourde (gravillons 4/8 ep. 40 mm) ou autoprotégée (feuille bitumineuse granulée). Terrasses techniques et jardin : dalles sur plots ou complexe de toiture végétalisée. Chaque système nécessite un Avis Technique CSTB en vigueur.",
+        "exigences": [
+          "Protection lourde : gravillons 4/8, épaisseur 40 mm minimum",
+          "Autoprotection par granulés minéraux ou feuille métallique",
+          "Terrasse jardin : complexe drainage + substrat conforme FLL",
+          "Avis Technique CSTB obligatoire pour chaque système"
+        ]
+      },
+      {
+        "article": "6.1",
+        "sujet": "Relevés d'étanchéité",
+        "contenu": "Hauteur minimale des relevés : 100 mm au-dessus de la protection ou 150 mm au-dessus du niveau fini. En attique ou sous-face de sablière : 150 mm. Relevés fixés mécaniquement sous couvertine métallique avec joint néoprène. Pontage obligatoire des joints de dilatation par pièces spéciales.",
+        "exigences": [
+          "Relevé ≥ 100 mm au-dessus protection, ≥ 150 mm au-dessus fini",
+          "Fixation mécanique en tête + couvertine zinc ou alu",
+          "Joint néoprène entre couvertine et relevé",
+          "Pontage joints de dilatation par pièce de forme homologue"
+        ]
+      },
+      {
+        "article": "7.2",
+        "sujet": "Isolation thermique en toiture-terrasse — Règles DTU 43.1",
+        "contenu": "L'isolant doit être adapté à la toiture inversée ou traditionnelle. Toiture traditionnelle : isolant sous étanchéité (PSE, MW, PU), résistance à la compression ≥ 150 kPa pour toiture accessible. Toiture inversée : XPS uniquement, résistance compression ≥ 300 kPa, Rth majoré de 20% (coefficient de délavage).",
+        "exigences": [
+          "Toiture traditionnelle : PSE 150 kPa min ou PU 150 kPa min",
+          "Toiture inversée : XPS uniquement, Rc ≥ 300 kPa",
+          "Résistance thermique XPS inversée : Rth × 1,20 (correction délavage)",
+          "Pare-vapeur côté chaud obligatoire si μ > 2 côté intérieur"
+        ]
+      },
+      {
+        "article": "8.1",
+        "sujet": "Évacuation des eaux pluviales — Dimensionnement",
+        "contenu": "Descentes EP dimensionnées selon NF EN 12056-3. Débit de calcul : précipitations centenales (Montpellier 150 l/min/100m², Paris 110 l/min/100m²). Trop-plein obligatoire à + 30 mm au-dessus de l'entrée EP principale. Pente minimale du plan d'étanchéité vers EP : 1%.",
+        "exigences": [
+          "Pente minimale vers EP : 1% (recommandé 1,5%)",
+          "Dimensionnement NF EN 12056-3 avec pluie centennale locale",
+          "Trop-plein obligatoire à +30 mm au-dessus entrée EP",
+          "Espacement entrées EP : ≤ 25 m linéaires en noue"
+        ]
+      }
+    ]
+  },
+  {
+    "reference": "NF DTU 40.21",
+    "titre": "Couvertures par éléments métalliques en feuilles et longues feuilles en zinc",
+    "date_edition": "2020-10",
+    "derniere_mise_a_jour": "2023-01",
+    "lots_concernes": ["couverture"],
+    "statut": "en_vigueur",
+    "normes_associees": ["NF EN 988", "NF EN ISO 9226"],
+    "points_cles": [
+      {
+        "article": "4.1",
+        "sujet": "Zinc laminé — Qualité et épaisseurs",
+        "contenu": "Zinc laminé titane conforme NF EN 988. Épaisseurs minimales : couverture 0,65 mm développé ≤ 333 mm / 0,80 mm développé ≤ 500 mm. Zinc prépatiné (anthra ou naturel) ou nu (patine naturelle progressive). Alliage ZN-Ti-Cu ou ZN-Ti.",
+        "exigences": [
+          "Épaisseur ≥ 0,65 mm pour développé ≤ 333 mm",
+          "Épaisseur ≥ 0,80 mm pour développé ≤ 500 mm",
+          "Conformité NF EN 988, alliage ZN-Ti obligatoire",
+          "Pas de contact direct zinc/béton ou mortier frais (corrosion alcaline)"
+        ]
+      },
+      {
+        "article": "5.1",
+        "sujet": "Pente minimale et joints debout",
+        "contenu": "Joints debout : pente minimale 3% (1,7°). Bandes larges à joints debout : développé ≤ 430 mm (0,70 mm) ou 550 mm (0,80 mm). Intervalles entre bandes : ≤ 600 mm. Agrafes inox toutes les 2 files de panneaux. Sous-face : surfaçage bois ou polyane.",
+        "exigences": [
+          "Pente minimale joints debout : 3% (1,7°)",
+          "Longueur bande ≤ 10 m entre joints de dilatation",
+          "Agrafe inox A2 toutes les ≤ 600 mm",
+          "Sous-face : polyane 200 µm ou surfaçage bitumé anti-condensation"
+        ]
+      }
+    ]
+  }
+]
